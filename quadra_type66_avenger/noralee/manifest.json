@@ -1,0 +1,2163 @@
+{
+  "schema": 2,
+  "model": "Quadra Type-66 Avenger",
+  "appearance": "noralee",
+  "geometry": "Installed P2M primary geometry, actual parsed float32 positions and authored normals",
+  "source_triangles": 121817,
+  "primary_triangles": 1140595,
+  "normal_transport_overlay_triangles": 319822,
+  "materials": {
+    "opaque": {
+      "color": "textures/opaque_color.jpg",
+      "normal": "textures/opaque_normal.png",
+      "cutout": false,
+      "translucent": false,
+      "emissive": false,
+      "phong_exponent": 24,
+      "phong_boost": 0.8,
+      "masked_envmap": true
+    },
+    "glass": {
+      "color": "textures/opaque_color.jpg",
+      "normal": "textures/opaque_normal.png",
+      "cutout": false,
+      "translucent": true,
+      "emissive": false,
+      "phong_exponent": 24,
+      "phong_boost": 0.8,
+      "masked_envmap": false
+    }
+  },
+  "meshes": [
+    {
+      "name": "p2m_000",
+      "file": "meshes/node_00.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14440893,
+      "bone": "body",
+      "slot": 0,
+      "material": "glass",
+      "optic": "",
+      "triangles": 3115,
+      "mins": [
+        -113.87159105455933,
+        -40.945819854736364,
+        10.757215732745264
+      ],
+      "maxs": [
+        103.29675006866266,
+        40.94581985473629,
+        46.996080525079634
+      ],
+      "sha256": "7aecab6d28f3abacb11b337b36886279857bd92859736a63ef8e399633389f0a"
+    },
+    {
+      "name": "p2m_001",
+      "file": "meshes/node_00.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14440893,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -109.13010284207566,
+        -44.39947657107363,
+        6.97512018496511
+      ],
+      "maxs": [
+        104.39919219305617,
+        41.62228627410991,
+        48.11075054374546
+      ],
+      "sha256": "7aecab6d28f3abacb11b337b36886279857bd92859736a63ef8e399633389f0a"
+    },
+    {
+      "name": "p2m_002",
+      "file": "meshes/node_00.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14440893,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -106.4543711466328,
+        -44.84624935087777,
+        1.0899227813565062
+      ],
+      "maxs": [
+        97.72484952978932,
+        43.63196109834098,
+        44.78939227936116
+      ],
+      "sha256": "7aecab6d28f3abacb11b337b36886279857bd92859736a63ef8e399633389f0a"
+    },
+    {
+      "name": "p2m_003",
+      "file": "meshes/node_00.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14440893,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -109.39486881215629,
+        -43.39256212795526,
+        18.77202985167662
+      ],
+      "maxs": [
+        94.65938987991339,
+        41.659694781246856,
+        48.12052876058113
+      ],
+      "sha256": "7aecab6d28f3abacb11b337b36886279857bd92859736a63ef8e399633389f0a"
+    },
+    {
+      "name": "p2m_004",
+      "file": "meshes/node_00.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14440893,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -107.67758575000055,
+        -43.68961260402948,
+        6.855394280233236
+      ],
+      "maxs": [
+        104.60830673657172,
+        42.167037233147,
+        44.792110774513844
+      ],
+      "sha256": "7aecab6d28f3abacb11b337b36886279857bd92859736a63ef8e399633389f0a"
+    },
+    {
+      "name": "p2m_005",
+      "file": "meshes/node_05.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14298702,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -109.13894928567046,
+        -44.94750821552845,
+        14.158078648917943
+      ],
+      "maxs": [
+        94.57423753508074,
+        41.5776619125193,
+        46.902945973747045
+      ],
+      "sha256": "be2b69f5ba37a70e8a0daa916b25a325f3be340a61a0a4c05f297131e90e3dfc"
+    },
+    {
+      "name": "p2m_006",
+      "file": "meshes/node_05.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14298702,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -102.30471115234532,
+        -37.443858352737124,
+        6.974444367476872
+      ],
+      "maxs": [
+        98.96306033540208,
+        37.38525789495475,
+        43.63510099211071
+      ],
+      "sha256": "be2b69f5ba37a70e8a0daa916b25a325f3be340a61a0a4c05f297131e90e3dfc"
+    },
+    {
+      "name": "p2m_007",
+      "file": "meshes/node_05.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14298702,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -104.3297596844139,
+        -44.691036418349995,
+        0.8951433664359314
+      ],
+      "maxs": [
+        97.7286480134588,
+        38.274322315780864,
+        48.0719200916681
+      ],
+      "sha256": "be2b69f5ba37a70e8a0daa916b25a325f3be340a61a0a4c05f297131e90e3dfc"
+    },
+    {
+      "name": "p2m_008",
+      "file": "meshes/node_05.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14298702,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -65.11090180472932,
+        -12.798045647640006,
+        13.920298019480768
+      ],
+      "maxs": [
+        50.52679131259359,
+        30.25521563241981,
+        44.8065942917586
+      ],
+      "sha256": "be2b69f5ba37a70e8a0daa916b25a325f3be340a61a0a4c05f297131e90e3dfc"
+    },
+    {
+      "name": "p2m_009",
+      "file": "meshes/node_09.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16450609,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -106.34068197533678,
+        -33.00890865887114,
+        10.255705710070881
+      ],
+      "maxs": [
+        102.20299446992993,
+        41.1872706373998,
+        46.93196346641518
+      ],
+      "sha256": "f51a46f271200311eabaebc259ecd3e9309604297ee75d4dce31b90786a21832"
+    },
+    {
+      "name": "p2m_010",
+      "file": "meshes/node_09.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16450609,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -28.464624492965385,
+        -33.78515979749341,
+        30.243846764716395
+      ],
+      "maxs": [
+        28.70084756614769,
+        33.78516346481315,
+        45.21705466109602
+      ],
+      "sha256": "f51a46f271200311eabaebc259ecd3e9309604297ee75d4dce31b90786a21832"
+    },
+    {
+      "name": "p2m_011",
+      "file": "meshes/node_09.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16450609,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -4.261795172130867,
+        -33.777784051350366,
+        33.059580290015894
+      ],
+      "maxs": [
+        67.03666730252235,
+        33.60177223742561,
+        46.74589403666788
+      ],
+      "sha256": "f51a46f271200311eabaebc259ecd3e9309604297ee75d4dce31b90786a21832"
+    },
+    {
+      "name": "p2m_012",
+      "file": "meshes/node_09.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16450609,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -103.8405262538147,
+        -43.28757174254148,
+        5.1174854952121605
+      ],
+      "maxs": [
+        104.5883596555388,
+        43.29313580750735,
+        35.33537252237879
+      ],
+      "sha256": "f51a46f271200311eabaebc259ecd3e9309604297ee75d4dce31b90786a21832"
+    },
+    {
+      "name": "p2m_013",
+      "file": "meshes/node_09.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16450609,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -23.17145002891499,
+        -29.291575439864232,
+        5.117491460408243
+      ],
+      "maxs": [
+        11.96072607478867,
+        29.31958486389735,
+        20.85495193766212
+      ],
+      "sha256": "f51a46f271200311eabaebc259ecd3e9309604297ee75d4dce31b90786a21832"
+    },
+    {
+      "name": "p2m_014",
+      "file": "meshes/node_14.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14814847,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -104.33231023021283,
+        -39.0603886126064,
+        5.1391546406111885
+      ],
+      "maxs": [
+        26.954925029796946,
+        39.06078143133891,
+        45.263094154771345
+      ],
+      "sha256": "cc4c9f330d2e213c67c34d757b6fb1141361f37e65e1ad3c7dd46c5027fb6746"
+    },
+    {
+      "name": "p2m_015",
+      "file": "meshes/node_14.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14814847,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -87.20875472522171,
+        -39.05112252372115,
+        32.62231156181175
+      ],
+      "maxs": [
+        -68.38758487201126,
+        39.051118992392134,
+        35.04302152942497
+      ],
+      "sha256": "cc4c9f330d2e213c67c34d757b6fb1141361f37e65e1ad3c7dd46c5027fb6746"
+    },
+    {
+      "name": "p2m_016",
+      "file": "meshes/node_14.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14814847,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -87.16341919941179,
+        -39.04323365490992,
+        -2.5068264421060595
+      ],
+      "maxs": [
+        90.59321087610451,
+        39.02686147070283,
+        35.03943777618992
+      ],
+      "sha256": "cc4c9f330d2e213c67c34d757b6fb1141361f37e65e1ad3c7dd46c5027fb6746"
+    },
+    {
+      "name": "p2m_017",
+      "file": "meshes/node_14.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 14814847,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -120.10045132153633,
+        -51.09727717429674,
+        -0.7881563400202579
+      ],
+      "maxs": [
+        106.10423899503682,
+        51.097271023186885,
+        48.28059522391395
+      ],
+      "sha256": "cc4c9f330d2e213c67c34d757b6fb1141361f37e65e1ad3c7dd46c5027fb6746"
+    },
+    {
+      "name": "p2m_018",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -110.59254359186124,
+        -44.87913511316913,
+        0.555986976932715
+      ],
+      "maxs": [
+        105.9581003290372,
+        44.87913515050275,
+        48.2443892347085
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_019",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -110.2229266946741,
+        -50.2691271489021,
+        -1.1328710346062203
+      ],
+      "maxs": [
+        90.66988939112858,
+        50.26912282058032,
+        44.62617651945936
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_020",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -111.4086779753616,
+        -34.00207446504666,
+        1.5425768774409612
+      ],
+      "maxs": [
+        93.45218314327255,
+        34.002167478312714,
+        41.84001549565729
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_021",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 11978,
+      "mins": [
+        -106.67190906838573,
+        -33.06064256220044,
+        4.849481342556096
+      ],
+      "maxs": [
+        105.93047230460488,
+        33.06063498179479,
+        48.27361557587061
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_022",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_brake_strip_left_t3",
+      "triangles": 86,
+      "mins": [
+        -113.26277346665718,
+        23.80043235919418,
+        26.42568452688678
+      ],
+      "maxs": [
+        -106.26498507107966,
+        40.29528359681603,
+        27.7249345335625
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_023",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_brake_strip_right_t3",
+      "triangles": 86,
+      "mins": [
+        -113.26277346665717,
+        -40.295283596816034,
+        26.42568452688679
+      ],
+      "maxs": [
+        -106.26493394906753,
+        -23.800431945532644,
+        27.72493453356251
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_024",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_head_left_t3",
+      "triangles": 12,
+      "mins": [
+        95.93360381856544,
+        22.44349192784777,
+        24.993446418642883
+      ],
+      "maxs": [
+        100.1801738096772,
+        36.16715192006579,
+        26.425376424193267
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_025",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_head_right_t3",
+      "triangles": 12,
+      "mins": [
+        95.93361045032528,
+        -36.16723533508721,
+        24.99344641864288
+      ],
+      "maxs": [
+        100.18017042785671,
+        -22.443585356449514,
+        26.425376424193264
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_026",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_reverse_left_t3",
+      "triangles": 30,
+      "mins": [
+        -104.97975153140345,
+        -0.9636037047487992,
+        10.765140616937954
+      ],
+      "maxs": [
+        -100.03843158892909,
+        0.9772963230031234,
+        15.438920581384975
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_027",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_stop_center_t3",
+      "triangles": 28,
+      "mins": [
+        -36.670300999048,
+        -8.426299122419524,
+        44.671111618031645
+      ],
+      "maxs": [
+        -35.91033098972107,
+        8.426300975236726,
+        45.52841160153308
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_028",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_turn_front_left_t3",
+      "triangles": 11,
+      "mins": [
+        82.6684660739189,
+        39.50942020902227,
+        24.515940230668065
+      ],
+      "maxs": [
+        89.53584621613082,
+        40.35317020902227,
+        25.52289019185352
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_029",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_turn_front_right_t3",
+      "triangles": 11,
+      "mins": [
+        82.6684660739189,
+        -40.35317020902227,
+        24.515940230668058
+      ],
+      "maxs": [
+        89.53584621613082,
+        -39.50942020902227,
+        25.522890191853513
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_030",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_turn_rear_left_t3",
+      "triangles": 120,
+      "mins": [
+        -108.56355323813924,
+        38.17659949218613,
+        22.871477875033886
+      ],
+      "maxs": [
+        -106.2329732122279,
+        40.47650956069809,
+        26.163697871486217
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_031",
+      "file": "meshes/node_18.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 12448535,
+      "bone": "body",
+      "slot": 0,
+      "material": "opaque",
+      "optic": "light_turn_rear_right_t3",
+      "triangles": 120,
+      "mins": [
+        -108.56355245592604,
+        -40.476509560698084,
+        22.871479142463688
+      ],
+      "maxs": [
+        -106.23297243001471,
+        -38.17659949218612,
+        26.16369913891602
+      ],
+      "sha256": "614ae5b7cf64da466a5f2a9ad347676e86bede1daf973a0a0270d84876cb0dc6"
+    },
+    {
+      "name": "p2m_032",
+      "file": "meshes/node_32.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 254083,
+      "bone": "break_front_left",
+      "slot": 19,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1395,
+      "mins": [
+        -10.404910946091384,
+        -12.681644700527897,
+        -8.460821684603573
+      ],
+      "maxs": [
+        8.532872904539232,
+        0.39878436937700457,
+        8.803948823208927
+      ],
+      "sha256": "a878cc03eaa7f6ca12e9214fd5dffa085365a02531844fe0d0cd15b5543651e1"
+    },
+    {
+      "name": "p2m_033",
+      "file": "meshes/node_33.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 251125,
+      "bone": "break_front_right",
+      "slot": 20,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1391,
+      "mins": [
+        -10.404910946091348,
+        -0.39816044390067873,
+        -8.46085574386058
+      ],
+      "maxs": [
+        8.532870847114054,
+        12.681132136609826,
+        8.804013946080826
+      ],
+      "sha256": "5fe1aab4be917e1143b6b74f42517252465fa1bc605d2b7ef90604e0cab6a0a3"
+    },
+    {
+      "name": "p2m_034",
+      "file": "meshes/node_34.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 3824583,
+      "bone": "door_front_left_a",
+      "slot": 2,
+      "material": "glass",
+      "optic": "",
+      "triangles": 42,
+      "mins": [
+        44.86868932829668,
+        -10.790916093065363,
+        15.14134004893134
+      ],
+      "maxs": [
+        51.80091694229806,
+        5.022400569173932,
+        17.17641005101035
+      ],
+      "sha256": "cb68936987e78586c12be37fb6403710350c1c48e18d6f888ab6a5b1ea583f49"
+    },
+    {
+      "name": "p2m_035",
+      "file": "meshes/node_34.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 3824583,
+      "bone": "door_front_left_a",
+      "slot": 2,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -2.5915853780916933,
+        -12.801276016052519,
+        -12.340838353393316
+      ],
+      "maxs": [
+        51.7340682670766,
+        5.416960762580686,
+        19.5726441248069
+      ],
+      "sha256": "cb68936987e78586c12be37fb6403710350c1c48e18d6f888ab6a5b1ea583f49"
+    },
+    {
+      "name": "p2m_036",
+      "file": "meshes/node_34.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 3824583,
+      "bone": "door_front_left_a",
+      "slot": 2,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 2010,
+      "mins": [
+        2.435074438375338,
+        -7.92704634949223,
+        -8.99498328692391
+      ],
+      "maxs": [
+        48.59571557799244,
+        -1.5744059749165586,
+        19.435878184331905
+      ],
+      "sha256": "cb68936987e78586c12be37fb6403710350c1c48e18d6f888ab6a5b1ea583f49"
+    },
+    {
+      "name": "p2m_037",
+      "file": "meshes/node_37.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 119785,
+      "bone": "door_front_left_b",
+      "slot": 1,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 933,
+      "mins": [
+        -14.755030493495532,
+        -16.161609064547818,
+        -5.201740601652755
+      ],
+      "maxs": [
+        19.647659503856172,
+        1.8048320143452798,
+        11.921410126756601
+      ],
+      "sha256": "54b378ffe76f0d686e1ade910ebba7ac5f12b660f038176ef2564cbc9ea1c3a1"
+    },
+    {
+      "name": "p2m_038",
+      "file": "meshes/node_38.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 4334898,
+      "bone": "door_front_right_a",
+      "slot": 5,
+      "material": "glass",
+      "optic": "",
+      "triangles": 42,
+      "mins": [
+        44.8078747130884,
+        -5.022406416087845,
+        15.127193541259
+      ],
+      "maxs": [
+        51.80091650922721,
+        10.705990458314599,
+        17.200863570899198
+      ],
+      "sha256": "18c8ba1cc78c53719d19673ac692c63f1fc6f22a967f35a3d947be9ba3d26464"
+    },
+    {
+      "name": "p2m_039",
+      "file": "meshes/node_38.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 4334898,
+      "bone": "door_front_right_a",
+      "slot": 5,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -2.3893580972468507,
+        -5.416965603895453,
+        -12.340775490181162
+      ],
+      "maxs": [
+        51.734067535982554,
+        10.573142600823477,
+        18.41152747968705
+      ],
+      "sha256": "18c8ba1cc78c53719d19673ac692c63f1fc6f22a967f35a3d947be9ba3d26464"
+    },
+    {
+      "name": "p2m_040",
+      "file": "meshes/node_38.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 4334898,
+      "bone": "door_front_right_a",
+      "slot": 5,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 5497,
+      "mins": [
+        -2.5914779245173554,
+        -5.3901177895373396,
+        -12.340695381538584
+      ],
+      "maxs": [
+        51.63786054230468,
+        12.801262527002349,
+        19.572653171140946
+      ],
+      "sha256": "18c8ba1cc78c53719d19673ac692c63f1fc6f22a967f35a3d947be9ba3d26464"
+    },
+    {
+      "name": "p2m_041",
+      "file": "meshes/node_41.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 114265,
+      "bone": "door_front_right_b",
+      "slot": 4,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 889,
+      "mins": [
+        -14.755029881313908,
+        -1.8047935764037817,
+        -5.201744320050964
+      ],
+      "maxs": [
+        19.64765601025067,
+        16.161606608861078,
+        11.921404637160414
+      ],
+      "sha256": "29c38881cc060173c360beb0466266d2c918fcbfe6b9678c3f93d60e1d8de433"
+    },
+    {
+      "name": "p2m_042",
+      "file": "meshes/node_42.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 242397,
+      "bone": "fuel_cap",
+      "slot": 9,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1750,
+      "mins": [
+        -6.667212123031103,
+        -1.813427462377895,
+        -3.201034081884476
+      ],
+      "maxs": [
+        5.6323078926854535,
+        0.5250925876709331,
+        1.9072058072604214
+      ],
+      "sha256": "fa66da7794973cce45569a9c84c918267ce8e1356d26eb2cfca713af57d98e27"
+    },
+    {
+      "name": "p2m_043",
+      "file": "meshes/node_43.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 1220003,
+      "bone": "hood_a",
+      "slot": 7,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 7953,
+      "mins": [
+        -1.640397503209364,
+        -61.598802992099074,
+        -10.256481352328578
+      ],
+      "maxs": [
+        67.03008131759142,
+        1.2652373826567853,
+        2.8486628965726766
+      ],
+      "sha256": "135174ccd08d01ee9eb2472bee87a3c7e1dfac1e5391aa56a9b25cbe2657d7d0"
+    },
+    {
+      "name": "p2m_044",
+      "file": "meshes/node_44.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 3353393,
+      "bone": "steering_wheel",
+      "slot": 10,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -1.8668085276714081,
+        -8.006417982456353,
+        -3.7005259265833814
+      ],
+      "maxs": [
+        5.05170197420002,
+        7.8201562515653436,
+        3.8001012749414578
+      ],
+      "sha256": "e5c271e8955ef513a417a0c6b2b726f7e8add14a7d5bc548009fdb1a2853ca82"
+    },
+    {
+      "name": "p2m_045",
+      "file": "meshes/node_44.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 3353393,
+      "bone": "steering_wheel",
+      "slot": 10,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 392,
+      "mins": [
+        -1.7956525082398174,
+        -7.6762862696022935,
+        -3.1017471021951373
+      ],
+      "maxs": [
+        3.9030598169772133,
+        7.500175097201101,
+        2.5487019914943545
+      ],
+      "sha256": "e5c271e8955ef513a417a0c6b2b726f7e8add14a7d5bc548009fdb1a2853ca82"
+    },
+    {
+      "name": "p2m_046",
+      "file": "meshes/node_46.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 252220,
+      "bone": "swingarm_back_left",
+      "slot": 17,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1397,
+      "mins": [
+        -9.694850701498638,
+        -11.152704148893278,
+        -7.936982079005494
+      ],
+      "maxs": [
+        7.949631478404214,
+        1.0342944895999722,
+        8.148917750859006
+      ],
+      "sha256": "007edea3c99bb970e749a8a6bdf8cbfa8f0ad1982ddf38dcc9f907c48f149646"
+    },
+    {
+      "name": "p2m_047",
+      "file": "meshes/node_47.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 248429,
+      "bone": "swingarm_back_right",
+      "slot": 18,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1393,
+      "mins": [
+        -9.694850701498638,
+        -1.03481905845711,
+        -7.937012471400203
+      ],
+      "maxs": [
+        7.949635320634229,
+        11.153328795211742,
+        8.148977957524355
+      ],
+      "sha256": "1307cb501b1c01f41325324fd65baf9bb7ea6c65f1d39984dc86adea6bda35b7"
+    },
+    {
+      "name": "p2m_048",
+      "file": "meshes/node_48.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 218668,
+      "bone": "swingarm_front_left",
+      "slot": 15,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1150,
+      "mins": [
+        -5.910003628353309,
+        -11.192693374297765,
+        -7.562666852861483
+      ],
+      "maxs": [
+        6.355346236606408,
+        -0.6988241409066731,
+        8.619296500727692
+      ],
+      "sha256": "32a2e82d39ef0bebdbe45fc3ba04f9e2b2e94bc85ef297187091b1ef54d9b739"
+    },
+    {
+      "name": "p2m_049",
+      "file": "meshes/node_49.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 216783,
+      "bone": "swingarm_front_right",
+      "slot": 16,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 1150,
+      "mins": [
+        -5.910003628353266,
+        0.6995437235384898,
+        -7.562666852861483
+      ],
+      "maxs": [
+        6.355346236606451,
+        11.193323184697846,
+        8.619296500727692
+      ],
+      "sha256": "13a45918e2454e2065e10823207e062fe561d00dc8af86bff3c514acc261b7af"
+    },
+    {
+      "name": "p2m_050",
+      "file": "meshes/node_50.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 2065158,
+      "bone": "trunk_a",
+      "slot": 8,
+      "material": "glass",
+      "optic": "",
+      "triangles": 212,
+      "mins": [
+        -61.486978055011086,
+        -25.623960494995128,
+        -15.222329176420047
+      ],
+      "maxs": [
+        -6.7792184060362,
+        25.623960494995107,
+        0.23312609893925185
+      ],
+      "sha256": "483fe019cce2e8f5196ebbe738807c7189806fa7932a8c0a7f1875226940e0da"
+    },
+    {
+      "name": "p2m_051",
+      "file": "meshes/node_50.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 2065158,
+      "bone": "trunk_a",
+      "slot": 8,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 14650,
+      "mins": [
+        -68.08354608531425,
+        -26.912216063368234,
+        -17.89766136136874
+      ],
+      "maxs": [
+        -2.3077758979363168,
+        26.912216422910387,
+        2.2198485651306115
+      ],
+      "sha256": "483fe019cce2e8f5196ebbe738807c7189806fa7932a8c0a7f1875226940e0da"
+    },
+    {
+      "name": "p2m_052",
+      "file": "meshes/node_50.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 2065158,
+      "bone": "trunk_a",
+      "slot": 8,
+      "material": "opaque",
+      "optic": "light_stop_center_t3",
+      "triangles": 96,
+      "mins": [
+        -60.88388993788546,
+        -23.297779136455503,
+        -15.106361634806358
+      ],
+      "maxs": [
+        -59.78431993175334,
+        23.297889656269106,
+        -13.815961666182243
+      ],
+      "sha256": "483fe019cce2e8f5196ebbe738807c7189806fa7932a8c0a7f1875226940e0da"
+    },
+    {
+      "name": "p2m_053",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 2134,
+      "mins": [
+        -7.039598399835839,
+        -1.7368307999401225,
+        -7.095507227593472
+      ],
+      "maxs": [
+        7.0310658248195,
+        11.060745015585084,
+        7.04228298022142
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_054",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.905934048458647,
+        0.03038996890432344,
+        -11.715129244312152
+      ],
+      "maxs": [
+        -0.07960665050548243,
+        16.14838003466207,
+        15.907049314986413
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_055",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -11.850206373367726,
+        0.0309512040908686,
+        -15.904837353685235
+      ],
+      "maxs": [
+        15.905936649555088,
+        16.147537163644685,
+        1.9564003302119088
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_056",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.568077975192182,
+        0.030390279870786685,
+        -14.58457042137168
+      ],
+      "maxs": [
+        15.905936649555088,
+        17.329190088220052,
+        15.907047312390528
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_057",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.580705383999586,
+        -1.0383123347453065,
+        -15.567469413479627
+      ],
+      "maxs": [
+        15.568080370020944,
+        17.32891410332111,
+        15.56870333305514
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_058",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -13.472188011547118,
+        -1.2966860223968908,
+        -15.580086616102239
+      ],
+      "maxs": [
+        15.580707946486669,
+        17.578901705173962,
+        15.581810096583766
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_059",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -12.620282696500865,
+        4.682994027124295,
+        -13.371539205937344
+      ],
+      "maxs": [
+        13.371460948023866,
+        17.578901705173962,
+        12.78887025997555
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_060",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_left",
+      "slot": 13,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 10495,
+      "mins": [
+        -12.026586421584412,
+        3.831358990576504,
+        -11.137441515429778
+      ],
+      "maxs": [
+        12.02658282890387,
+        17.31729611216693,
+        12.312728047863676
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5"
+    },
+    {
+      "name": "p2m_061",
+      "file": "meshes/node_61.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 213325,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 2134,
+      "mins": [
+        -7.0310658248195,
+        -1.736308512292994,
+        -7.095507227593472
+      ],
+      "maxs": [
+        7.039598399835825,
+        11.060745015585084,
+        7.04228298022142
+      ],
+      "sha256": "61811e3dcd167b4cf953da2b4a78d323b6eb0fe1250bb7e5cc46ea345ab87f18"
+    },
+    {
+      "name": "p2m_062",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 138,
+      "mins": [
+        -7.554352508310544,
+        0.6167014513343503,
+        -7.557178840041139
+      ],
+      "maxs": [
+        7.545687927480472,
+        1.8232514534324338,
+        7.615955406725422
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_063",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -14.937696111820173,
+        11.378147758497029,
+        -14.93766320724351
+      ],
+      "maxs": [
+        13.316007367876523,
+        12.35561885061881,
+        11.210399509462952
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_064",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.890119016130654,
+        -1.5701969106085727,
+        -15.701929109089917
+      ],
+      "maxs": [
+        14.937654145170896,
+        12.355770466036219,
+        14.937658415094116
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_065",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -4.407177216810339,
+        -1.570198536538058,
+        -15.890089111321515
+      ],
+      "maxs": [
+        15.890080708218008,
+        11.378363912046495,
+        13.683597103724903
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_066",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.827080236679656,
+        -1.6083361412903017,
+        -10.661367619465185
+      ],
+      "maxs": [
+        9.733096179260414,
+        11.378150496865935,
+        15.890087008520144
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_067",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -13.472187138433881,
+        -1.8487730094223096,
+        -15.070053517461401
+      ],
+      "maxs": [
+        15.070046911421642,
+        12.272267334815972,
+        15.070048746589691
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_068",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -12.619871899329809,
+        3.925459157662715,
+        -13.371719076779618
+      ],
+      "maxs": [
+        13.371462951243828,
+        12.272264912524797,
+        12.791377397291988
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_069",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_left",
+      "slot": 11,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 13016,
+      "mins": [
+        -12.370758556849331,
+        3.3877392625351277,
+        -12.786139665019359
+      ],
+      "maxs": [
+        12.369067572668072,
+        12.134330593296568,
+        12.312784224306512
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051"
+    },
+    {
+      "name": "p2m_070",
+      "file": "meshes/node_70.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 20694,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 138,
+      "mins": [
+        -7.545687927480486,
+        0.6160795397764423,
+        -7.5571788400411375
+      ],
+      "maxs": [
+        7.554352508310529,
+        1.8237777468154386,
+        7.615955406725422
+      ],
+      "sha256": "a01187fb76b4831f3a058c901accd3deff23f6e26234ec15ac57f9ce8aea9c25"
+    },
+    {
+      "name": "p2m_071",
+      "file": "meshes/node_71.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 434102,
+      "bone": "window_front_left_b",
+      "slot": 3,
+      "material": "glass",
+      "optic": "",
+      "triangles": 99,
+      "mins": [
+        -20.54473415888546,
+        -4.014324601173899,
+        -6.945600421535149
+      ],
+      "maxs": [
+        25.331118184467407,
+        3.248045831068511,
+        6.668479190697178
+      ],
+      "sha256": "1a91f23b88fe5c243797b0dff29a113e4bc6cd54459ea97f9c20f49dc1afc740"
+    },
+    {
+      "name": "p2m_072",
+      "file": "meshes/node_71.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 434102,
+      "bone": "window_front_left_b",
+      "slot": 3,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 3146,
+      "mins": [
+        -19.26872966830589,
+        1.3381661734212904,
+        -5.080697270138119
+      ],
+      "maxs": [
+        -17.40548632024291,
+        1.8889486868915295,
+        -3.777594139782441
+      ],
+      "sha256": "1a91f23b88fe5c243797b0dff29a113e4bc6cd54459ea97f9c20f49dc1afc740"
+    },
+    {
+      "name": "p2m_073",
+      "file": "meshes/node_73.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 434381,
+      "bone": "window_front_right_b",
+      "slot": 6,
+      "material": "glass",
+      "optic": "",
+      "triangles": 99,
+      "mins": [
+        -20.54476897669796,
+        -3.248070454148971,
+        -6.94553599634015
+      ],
+      "maxs": [
+        25.33111984776493,
+        4.014339709730431,
+        6.668534419156672
+      ],
+      "sha256": "c7bf318a756e8af839ce8d43a4138d0c0de66b7b2273194a26dc232921ac5858"
+    },
+    {
+      "name": "p2m_074",
+      "file": "meshes/node_73.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 434381,
+      "bone": "window_front_right_b",
+      "slot": 6,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 3134,
+      "mins": [
+        -19.254616456136134,
+        -1.9041985089566282,
+        -5.052534445932859
+      ],
+      "maxs": [
+        -17.39181645403805,
+        -1.3396558875824975,
+        -3.7726244179520547
+      ],
+      "sha256": "c7bf318a756e8af839ce8d43a4138d0c0de66b7b2273194a26dc232921ac5858"
+    },
+    {
+      "name": "p2m_063",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -14.937696111820173,
+        11.378147758497029,
+        -14.93766320724351
+      ],
+      "maxs": [
+        13.316007367876523,
+        12.35561885061881,
+        11.210399509462952
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_064",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.890119016130654,
+        -1.5701969106085727,
+        -15.701929109089917
+      ],
+      "maxs": [
+        14.937654145170896,
+        12.355770466036219,
+        14.937658415094116
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_065",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -4.407177216810339,
+        -1.570198536538058,
+        -15.890089111321515
+      ],
+      "maxs": [
+        15.890080708218008,
+        11.378363912046495,
+        13.683597103724903
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_066",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.827080236679656,
+        -1.6083361412903017,
+        -10.661367619465185
+      ],
+      "maxs": [
+        9.733096179260414,
+        11.378150496865935,
+        15.890087008520144
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_067",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -13.472187138433881,
+        -1.8487730094223096,
+        -15.070053517461401
+      ],
+      "maxs": [
+        15.070046911421642,
+        12.272267334815972,
+        15.070048746589691
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_068",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -12.619871899329809,
+        3.925459157662715,
+        -13.371719076779618
+      ],
+      "maxs": [
+        13.371462951243828,
+        12.272264912524797,
+        12.791377397291988
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_069",
+      "file": "meshes/node_62.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16102900,
+      "bone": "wheel_front_right",
+      "slot": 12,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 13016,
+      "mins": [
+        -12.370758556849331,
+        3.3877392625351277,
+        -12.786139665019359
+      ],
+      "maxs": [
+        12.369067572668072,
+        12.134330593296568,
+        12.312784224306512
+      ],
+      "sha256": "584c9d1407274cbd41a9a56d38bad4caa9cd051fd6f30fc087345272596de051",
+      "local_position": [
+        -3.149606841088698e-06,
+        8.881784197001252e-16,
+        1.1102230246251565e-16
+      ],
+      "local_angle": [
+        0.0,
+        9.631422762481447e-15,
+        3.651766531198876e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_054",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.905934048458647,
+        0.03038996890432344,
+        -11.715129244312152
+      ],
+      "maxs": [
+        -0.07960665050548243,
+        16.14838003466207,
+        15.907049314986413
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_055",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -11.850206373367726,
+        0.0309512040908686,
+        -15.904837353685235
+      ],
+      "maxs": [
+        15.905936649555088,
+        16.147537163644685,
+        1.9564003302119088
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_056",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.568077975192182,
+        0.030390279870786685,
+        -14.58457042137168
+      ],
+      "maxs": [
+        15.905936649555088,
+        17.329190088220052,
+        15.907047312390528
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_057",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -15.580705383999586,
+        -1.0383123347453065,
+        -15.567469413479627
+      ],
+      "maxs": [
+        15.568080370020944,
+        17.32891410332111,
+        15.56870333305514
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_058",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -13.472188011547118,
+        -1.2966860223968908,
+        -15.580086616102239
+      ],
+      "maxs": [
+        15.580707946486669,
+        17.578901705173962,
+        15.581810096583766
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_059",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 21800,
+      "mins": [
+        -12.620282696500865,
+        4.682994027124295,
+        -13.371539205937344
+      ],
+      "maxs": [
+        13.371460948023866,
+        17.578901705173962,
+        12.78887025997555
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    },
+    {
+      "name": "p2m_060",
+      "file": "meshes/node_53.obj.lzma",
+      "compression": "gmod-lzma",
+      "decompressed_bytes": 16067359,
+      "bone": "wheel_back_right",
+      "slot": 14,
+      "material": "opaque",
+      "optic": "",
+      "triangles": 10495,
+      "mins": [
+        -12.026586421584412,
+        3.831358990576504,
+        -11.137441515429778
+      ],
+      "maxs": [
+        12.02658282890387,
+        17.31729611216693,
+        12.312728047863676
+      ],
+      "sha256": "e3be8ac350eb3fbb8b0efbcd385f48398fddc3a61008ccc950f8b90398535fe5",
+      "local_position": [
+        3.14960899389094e-06,
+        -1.7763568394002505e-15,
+        1.4432899320127035e-15
+      ],
+      "local_angle": [
+        0.0,
+        1.5878591678598914e-15,
+        5.857497718550725e-15
+      ],
+      "reused_mesh": true
+    }
+  ],
+  "in_game_tested": false,
+  "unique_triangles": 855484,
+  "download_mesh_bytes": 20204481,
+  "uncompressed_obj_bytes": 118658369,
+  "reuse": [
+    {
+      "bone": "wheel_front_right",
+      "material": "wheel_surface",
+      "max_position_error_su": 5.595525806369281e-13,
+      "max_normal_vector_error": 5.978733960281817e-16
+    },
+    {
+      "bone": "wheel_back_right",
+      "material": "wheel_surface",
+      "max_position_error_su": 2.7267171510034467e-12,
+      "max_normal_vector_error": 6.568167990716596e-16
+    }
+  ]
+}

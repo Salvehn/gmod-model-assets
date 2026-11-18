@@ -1,0 +1,506 @@
+{
+  "schema": 1,
+  "model": "segway_superscooter_gt3",
+  "assets": {
+    "meshes/atlas_1_body_00.obj.sfmb": {
+      "bytes": 97940,
+      "sha256": "0df2d9424de5351fa9ee5cda317fb26cf944eb53e79b0ea7796ab55662287114",
+      "crc": "3125475973"
+    },
+    "meshes/atlas_1_body_01.obj.sfmb": {
+      "bytes": 109883,
+      "sha256": "69d7bcc5f2ba6f9470dba0e6bfb716c2efb1828d03766be7323b171b81e52edd",
+      "crc": "668548087"
+    },
+    "meshes/atlas_1_body_02.obj.sfmb": {
+      "bytes": 114853,
+      "sha256": "f2ffb7c79945bdd91abd37e6c3514eda13f931ddca0c814a450f40c9db8a6c62",
+      "crc": "3281293888"
+    },
+    "meshes/atlas_1_body_03.obj.sfmb": {
+      "bytes": 100363,
+      "sha256": "a9e467618515d8e1b542770a8ee50c7d36c62169d83de71b42bb4e140ce8a03e",
+      "crc": "673040688"
+    },
+    "meshes/atlas_1_body_04.obj.sfmb": {
+      "bytes": 98502,
+      "sha256": "d14859d50c7cdd52ee48b9bce5f1d721abaa30835d9c2a953c96684b0508f407",
+      "crc": "2132188550"
+    },
+    "meshes/atlas_1_body_05.obj.sfmb": {
+      "bytes": 78269,
+      "sha256": "e406f353a0f8645fd03a69f2a40ece05c63ebd0d1d1f92c3ce099cd635f78cbc",
+      "crc": "1717557313"
+    },
+    "meshes/atlas_1_body_06.obj.sfmb": {
+      "bytes": 77988,
+      "sha256": "7998d360ad4adf0a3171c2d0a841e0de379b63ccab9b93cefcb0dc9f2e0295f7",
+      "crc": "3966849354"
+    },
+    "meshes/atlas_1_body_07.obj.sfmb": {
+      "bytes": 88435,
+      "sha256": "246fc08a05001cfb5791066af3cc3e4cf35859628b15ece8a7e091e4b56537bf",
+      "crc": "3997923498"
+    },
+    "meshes/atlas_1_body_08.obj.sfmb": {
+      "bytes": 98622,
+      "sha256": "eeae24f545f707562678f52fda5e8a8c008869833a8c2e1c3b28049e8d8d5be9",
+      "crc": "709020594"
+    },
+    "meshes/atlas_1_body_09.obj.sfmb": {
+      "bytes": 97591,
+      "sha256": "229246f924fd6c65a5018d27744f6cd157557d11270533f6d847b3168f8f686b",
+      "crc": "4107706888"
+    },
+    "meshes/atlas_1_body_10.obj.sfmb": {
+      "bytes": 88237,
+      "sha256": "c4accfadb06dffaaa8f77a30ff61945519a015951b0fc16c04da677812d9ac81",
+      "crc": "2282830710"
+    },
+    "meshes/atlas_1_kickstand_00.obj.sfmb": {
+      "bytes": 13968,
+      "sha256": "ef9d777482f74ad0687d2ed0fc3d66914621dcef4210fa1ba879cb31bd24d15c",
+      "crc": "556598396"
+    },
+    "meshes/atlas_2_brake_left_00.obj.sfmb": {
+      "bytes": 21728,
+      "sha256": "513eea86b5243c81ca529ca705fc809b9d9c97baf790e5644ef2a54d37a5bc31",
+      "crc": "2540525974"
+    },
+    "meshes/atlas_2_brake_right_00.obj.sfmb": {
+      "bytes": 21875,
+      "sha256": "7e1e9bf5eaf0d5dff7d37f2be20157340b3acc935ac0ac8beb54fe7fd489d851",
+      "crc": "1564504182"
+    },
+    "meshes/atlas_2_front_arm_00.obj.sfmb": {
+      "bytes": 95500,
+      "sha256": "272b74f37dc42386162f5b5fbf44e5248eaaa52b2574de399304c12cb466cf18",
+      "crc": "878772789"
+    },
+    "meshes/atlas_2_front_arm_01.obj.sfmb": {
+      "bytes": 88367,
+      "sha256": "a05b2c7476139ece66edb025934e9cc00b24a6cd2e51451ef8ddcc6ef5f603a1",
+      "crc": "3605795160"
+    },
+    "meshes/atlas_2_front_arm_02.obj.sfmb": {
+      "bytes": 87884,
+      "sha256": "102cfa104f2c93ca3e5c70a2815feeeec4614c1d1c0905a57c382293f0490966",
+      "crc": "1863969565"
+    },
+    "meshes/atlas_2_front_arm_03.obj.sfmb": {
+      "bytes": 86883,
+      "sha256": "996769f320bb1818a68a8913a6bf9d538d0d1468df985c263fe52356db5740b2",
+      "crc": "3349728805"
+    },
+    "meshes/atlas_2_front_arm_04.obj.sfmb": {
+      "bytes": 91910,
+      "sha256": "ab01354e81ab0bcf9a2e0bd4bb3492eef8304f232d979ea74e348f4bd0b27bb4",
+      "crc": "2521147846"
+    },
+    "meshes/atlas_2_front_arm_05.obj.sfmb": {
+      "bytes": 20653,
+      "sha256": "fd0372b2b84d2905ef3527f678ffe185faaca29113551d775825116ca339bd5d",
+      "crc": "768273774"
+    },
+    "meshes/atlas_2_main_lens_00.obj.sfmb": {
+      "bytes": 3457,
+      "sha256": "f083da987c0f86f13f27d5e9eac0d99d9586945c48d3bd1e76bd57f1e5a98f7a",
+      "crc": "1205615197"
+    },
+    "meshes/atlas_2_stem_00.obj.sfmb": {
+      "bytes": 89853,
+      "sha256": "a6b4902079b61117d1502d89f74b54e6f7423612be34b3537659df0107b27ce0",
+      "crc": "1837664013"
+    },
+    "meshes/atlas_2_stem_01.obj.sfmb": {
+      "bytes": 89587,
+      "sha256": "0ab0d5d29629c869cd398cc25f5fc29557243a4435b585abb6e41501ebce4e55",
+      "crc": "4181864357"
+    },
+    "meshes/atlas_2_stem_02.obj.sfmb": {
+      "bytes": 100287,
+      "sha256": "04a11409c1af9a016db8baf34d37126d59aeed1f8a8b232f4392ebaedb4f524c",
+      "crc": "3399311177"
+    },
+    "meshes/atlas_2_stem_03.obj.sfmb": {
+      "bytes": 94645,
+      "sha256": "e4d517191d52eee57b986445e81981b19e81aafc3cbbd8d9c3df62a7078f23c4",
+      "crc": "311792896"
+    },
+    "meshes/atlas_2_stem_04.obj.sfmb": {
+      "bytes": 98304,
+      "sha256": "bc0530aa87d5232b304c52c8c2b85bba87bcb2ddaf91c253bc75b69655d11a56",
+      "crc": "481658502"
+    },
+    "meshes/atlas_2_stem_05.obj.sfmb": {
+      "bytes": 87470,
+      "sha256": "2a26bedbe027ab1915fef2c7e754dc952480b1d342bd4d05d8fd5d127db5ce6f",
+      "crc": "2968665944"
+    },
+    "meshes/atlas_2_stem_06.obj.sfmb": {
+      "bytes": 79454,
+      "sha256": "740e4a8c4f5ba8d0fc4b4b1a15feacd1ed8da97f1ccaf3ce6cdb00d2c72f6cbf",
+      "crc": "1589064352"
+    },
+    "meshes/atlas_2_stem_07.obj.sfmb": {
+      "bytes": 83402,
+      "sha256": "c71ea5e472511d2e0925df67b8288b40fdbdee2dcd9acf6ff7041d53aefabdb2",
+      "crc": "1367322642"
+    },
+    "meshes/atlas_2_stem_08.obj.sfmb": {
+      "bytes": 85294,
+      "sha256": "9e49f82cc1a9ac96dea684235cf87121377dfdd556d3a3dd1b8bbe4b36d3a0c1",
+      "crc": "1346118471"
+    },
+    "meshes/atlas_2_stem_09.obj.sfmb": {
+      "bytes": 84310,
+      "sha256": "e927015f79d8385220c97ac0c86a2df4d63b893aa8923fe9b7d90a9026deff09",
+      "crc": "390995324"
+    },
+    "meshes/atlas_2_stem_10.obj.sfmb": {
+      "bytes": 99647,
+      "sha256": "ca3f81b24f51cfb293b3a132629d08fbfaca07824092e3eececb009b18d699e9",
+      "crc": "2151576821"
+    },
+    "meshes/atlas_2_stem_11.obj.sfmb": {
+      "bytes": 103312,
+      "sha256": "e6b80e94a7342e32bb1e423f4c9871fc7e802a5a91da36d9271ef72315feb6c6",
+      "crc": "3558502089"
+    },
+    "meshes/atlas_2_stem_12.obj.sfmb": {
+      "bytes": 97489,
+      "sha256": "0b682da1366be5dabe63ac88522fde0e6887c0565db33fa1a84df591f57cb19e",
+      "crc": "2144630754"
+    },
+    "meshes/atlas_2_stem_13.obj.sfmb": {
+      "bytes": 32076,
+      "sha256": "ec9fed3a804aead30819db78cd22695d7897027cf46123a15f8cf8f39e2eb367",
+      "crc": "4018556"
+    },
+    "meshes/atlas_3_body_00.obj.sfmb": {
+      "bytes": 32134,
+      "sha256": "0c8d1fc6575f9216eeb73e791f4063cf3e05688b9b5155a722861f832cf7ebda",
+      "crc": "2975603896"
+    },
+    "meshes/atlas_3_front_arm_00.obj.sfmb": {
+      "bytes": 76458,
+      "sha256": "7481df5877b8cbc445d1f84a04e963f4ef8f83659bd7196d06a7b7809546bfdc",
+      "crc": "3692610223"
+    },
+    "meshes/atlas_3_front_arm_01.obj.sfmb": {
+      "bytes": 86515,
+      "sha256": "66aacfe02cf6a78d35e45848dccbb2f5357288f2f70d957086986e5850bc0da3",
+      "crc": "2782324581"
+    },
+    "meshes/atlas_3_front_arm_02.obj.sfmb": {
+      "bytes": 82977,
+      "sha256": "49458dba52016c10f60bb43c2c9b4aff39a72dee77c86f807890d0508e53de49",
+      "crc": "2439282105"
+    },
+    "meshes/atlas_3_front_arm_03.obj.sfmb": {
+      "bytes": 12036,
+      "sha256": "1cc069531112c7f74e84a2a9c576c6ebde50af51312ee10b6c2e564608557f8f",
+      "crc": "2183820881"
+    },
+    "meshes/atlas_3_front_wheel_00.obj.sfmb": {
+      "bytes": 71013,
+      "sha256": "864361d040f53af5da0088a2aecdbb21b29f6ecf16ae5fe079d4c2c3d8311761",
+      "crc": "2431460959"
+    },
+    "meshes/atlas_3_front_wheel_01.obj.sfmb": {
+      "bytes": 71760,
+      "sha256": "cdcb8b26ff0fa348c6bcb09ed1378c47f359975d2978e1a07de454ce5b1596ed",
+      "crc": "1567174729"
+    },
+    "meshes/atlas_3_front_wheel_02.obj.sfmb": {
+      "bytes": 92674,
+      "sha256": "d7cb805d3d5ce613aacdac3b40419f37c66fea84eedb11a45c9977d97f4f66a2",
+      "crc": "324814872"
+    },
+    "meshes/atlas_3_front_wheel_03.obj.sfmb": {
+      "bytes": 93397,
+      "sha256": "f57b36e5d9cc5a9117c681ab6b72520cc4f5b1d4b0fabd59682494b910de4900",
+      "crc": "1818066820"
+    },
+    "meshes/atlas_3_front_wheel_04.obj.sfmb": {
+      "bytes": 76834,
+      "sha256": "6e4554c594fd4d1d2d1c5a2bb5771e8f53e5c8a55e28ee0cd0462a379cc33c29",
+      "crc": "3563707847"
+    },
+    "meshes/atlas_3_front_wheel_05.obj.sfmb": {
+      "bytes": 72788,
+      "sha256": "f003c9f553e60f28518a871e89feeec52cd78dd93dca7e8bf243efd3542b9a4a",
+      "crc": "2387498090"
+    },
+    "meshes/atlas_3_front_wheel_06.obj.sfmb": {
+      "bytes": 92148,
+      "sha256": "f21cbf8930c5b139a9aae57279f53f91bdd60283ed9dc7a1d8676825bf2b9ffd",
+      "crc": "1235297556"
+    },
+    "meshes/atlas_3_front_wheel_07.obj.sfmb": {
+      "bytes": 94752,
+      "sha256": "8eb83eca87dda227d2611b6ff2ea1d9c2a5e1f860d5137a8b5d999da9cfd3e14",
+      "crc": "3884407802"
+    },
+    "meshes/atlas_3_front_wheel_08.obj.sfmb": {
+      "bytes": 104613,
+      "sha256": "67317d68290f46c9cafef913e57be4bb2cdb5bca3bb091f97fe2ae851f2683b5",
+      "crc": "579416800"
+    },
+    "meshes/atlas_3_front_wheel_09.obj.sfmb": {
+      "bytes": 111468,
+      "sha256": "ee54e882f9febd439f3ebfc6e2dffb0e98be5d602d1040d27eb3787c546e37fc",
+      "crc": "2370247343"
+    },
+    "meshes/atlas_3_front_wheel_10.obj.sfmb": {
+      "bytes": 106978,
+      "sha256": "7d8790bbc93922caad18953e2386aacb045968609b56e34d5e11c13314e4d42d",
+      "crc": "1169025640"
+    },
+    "meshes/atlas_3_rear_arm_00.obj.sfmb": {
+      "bytes": 80573,
+      "sha256": "59c92af7f251b6f2be4012d8b65dd310b504f3b7cab47eb78dbac6f436d0b513",
+      "crc": "2730116404"
+    },
+    "meshes/atlas_3_rear_arm_01.obj.sfmb": {
+      "bytes": 87624,
+      "sha256": "aedfb555f31918416004313a0635dd4812829f81f3ce78921ef4ede24a6b6fe3",
+      "crc": "4249249602"
+    },
+    "meshes/atlas_3_rear_arm_02.obj.sfmb": {
+      "bytes": 90452,
+      "sha256": "29680137dc8fa3ad0a57b38af163b84c45d92ecd967c869ce1a762661af4e424",
+      "crc": "2994729355"
+    },
+    "meshes/atlas_3_rear_arm_03.obj.sfmb": {
+      "bytes": 74058,
+      "sha256": "96da85dff35f3079aee0ea1c07bbc4e6910069d9807b9b4a262b0442ee2d7ee6",
+      "crc": "2538171181"
+    },
+    "meshes/atlas_3_rear_wheel_00.obj.sfmb": {
+      "bytes": 71500,
+      "sha256": "cb91988b840983f2e45ea577c949f869e7e47e7aa2546e071bf21a0eb08144e7",
+      "crc": "519523049"
+    },
+    "meshes/atlas_3_rear_wheel_01.obj.sfmb": {
+      "bytes": 70746,
+      "sha256": "638b4528f9efba14d083eb7bc410622314a06912f251ca10793841fa69fe4d33",
+      "crc": "547981223"
+    },
+    "meshes/atlas_3_rear_wheel_02.obj.sfmb": {
+      "bytes": 92401,
+      "sha256": "4ec348d530f3bbc6e46a4dcff5f3059b4dc73a14c32685c9439502ba16ebf44e",
+      "crc": "1812063923"
+    },
+    "meshes/atlas_3_rear_wheel_03.obj.sfmb": {
+      "bytes": 92924,
+      "sha256": "5119ad7ea45de4278acfc9a87a450fad88c96f6fc115b5504e6b06addb093a13",
+      "crc": "330310682"
+    },
+    "meshes/atlas_3_rear_wheel_04.obj.sfmb": {
+      "bytes": 77163,
+      "sha256": "cf2e8ca3d32996db9c0e51c61fd48825825ad49d3d92bf21c42dfa8a911dbcff",
+      "crc": "2466652182"
+    },
+    "meshes/atlas_3_rear_wheel_05.obj.sfmb": {
+      "bytes": 71718,
+      "sha256": "52375c7b496c91b0ac334d344cfe0216ff9714a51a2c87edf92ceba94cbd36e8",
+      "crc": "1246017728"
+    },
+    "meshes/atlas_3_rear_wheel_06.obj.sfmb": {
+      "bytes": 91675,
+      "sha256": "12843f69f1a9c51ce44cffbdcf800df4a8230ea70fb2a0985d5f223bcf306fad",
+      "crc": "3110893007"
+    },
+    "meshes/atlas_3_rear_wheel_07.obj.sfmb": {
+      "bytes": 94119,
+      "sha256": "62b687d034eba06c1d62f302946c44ea0ac323c7eec2855f834aff3ed5e9abf0",
+      "crc": "578686281"
+    },
+    "meshes/atlas_3_rear_wheel_08.obj.sfmb": {
+      "bytes": 104231,
+      "sha256": "018757fccd3112149a2d6cf61e26cef3a52faadaffb4bf8afe6e2cb559ed4b50",
+      "crc": "2016090998"
+    },
+    "meshes/atlas_3_rear_wheel_09.obj.sfmb": {
+      "bytes": 111108,
+      "sha256": "ec348aae54d81d64a6963866f78e0a31312bced777af86095f649a68aef5f1d3",
+      "crc": "2908698897"
+    },
+    "meshes/atlas_3_rear_wheel_10.obj.sfmb": {
+      "bytes": 106623,
+      "sha256": "19df1ec6642fc978f74532a2a756e15c686363b71c6df5fbcd27ed23d12cbd81",
+      "crc": "639213585"
+    },
+    "meshes/fork_lens.obj.sfmb": {
+      "bytes": 18881,
+      "sha256": "7ecbb103f0855b8452e621f1369ce90d835d6d0317c34924ea2f2e2cb1befaa4",
+      "crc": "446540920"
+    },
+    "meshes/hub_front_wheel_00.obj.sfmb": {
+      "bytes": 77545,
+      "sha256": "d9550d23c34c73bb844f37902ebc80898e4d2bbb467dc4c174ad577ad07b7c6b",
+      "crc": "1452505291"
+    },
+    "meshes/hub_front_wheel_01.obj.sfmb": {
+      "bytes": 82524,
+      "sha256": "eb1b7214e7a53b4d21e38def45ec00e2c4b0a170be8ece4b3ace2f29f42a050d",
+      "crc": "3695580392"
+    },
+    "meshes/hub_front_wheel_02.obj.sfmb": {
+      "bytes": 12891,
+      "sha256": "9eb9f110ace7fffb8eb3a0de6d18e65b84fab62e248a429cd93e99aa32bc92b5",
+      "crc": "2383738046"
+    },
+    "meshes/hub_rear_wheel_00.obj.sfmb": {
+      "bytes": 75927,
+      "sha256": "55635a3f2dd7898ae90e4ad36c50dc20c61138dad866fa07e4128935dd8bdcea",
+      "crc": "3391679793"
+    },
+    "meshes/hub_rear_wheel_01.obj.sfmb": {
+      "bytes": 78915,
+      "sha256": "5f4d79240990cfe1e0128eb25683c8822255f07e8921bd1fedf8d50ec7bd2013",
+      "crc": "2780668524"
+    },
+    "meshes/hub_rear_wheel_02.obj.sfmb": {
+      "bytes": 8731,
+      "sha256": "92a1ec3beafa6475c59389161f32b20e8a7791391f5eeb8cee9add6f621c8d85",
+      "crc": "686027747"
+    },
+    "meshes/main_glass.obj.sfmb": {
+      "bytes": 9658,
+      "sha256": "32cc5ed24c3e4b460d5b492a7508b776f678e30d94236f950694ba9dbb749d93",
+      "crc": "2435921678"
+    },
+    "meshes/rotor_front_wheel_00.obj.sfmb": {
+      "bytes": 84957,
+      "sha256": "4bf6b26097572084091f1dbcbab8fe65c44312a8912f536593b8c90cda602235",
+      "crc": "2225196970"
+    },
+    "meshes/rotor_front_wheel_01.obj.sfmb": {
+      "bytes": 79540,
+      "sha256": "a962033b84cf8ab4ac6e9daf5b6245d8c652d78668e56b2e91552bbd0dcb568e",
+      "crc": "4275625240"
+    },
+    "meshes/rotor_front_wheel_02.obj.sfmb": {
+      "bytes": 85047,
+      "sha256": "8145055a1c680e1abd3231f255b7595d4faa9e80354e4deeb6c74e8fe2d0317c",
+      "crc": "2967144810"
+    },
+    "meshes/rotor_rear_wheel_00.obj.sfmb": {
+      "bytes": 84664,
+      "sha256": "9c8b7c295e2741b9e20017a82f3b819719be15d20c66bbce1c30e55ec0db7527",
+      "crc": "37140040"
+    },
+    "meshes/rotor_rear_wheel_01.obj.sfmb": {
+      "bytes": 79665,
+      "sha256": "c4b01ff359dbeccb990aeac0df6f344bc66b2f7a5b53cadf4496b2df8c120eb9",
+      "crc": "3068828071"
+    },
+    "meshes/rotor_rear_wheel_02.obj.sfmb": {
+      "bytes": 85049,
+      "sha256": "5f6fd94c67b2243b3fb7ae2eb1f093ee3d357f86cd6b80f07801a228471c8553",
+      "crc": "2109596073"
+    },
+    "meshes/steel_front_rods_00.obj.sfmb": {
+      "bytes": 20856,
+      "sha256": "a25ef5fdeb4047b25f8977b7fdfa88080ec03ec546d9d38959b3bc801e6529fd",
+      "crc": "3032713921"
+    },
+    "meshes/stem_decals.obj.sfmb": {
+      "bytes": 1819,
+      "sha256": "51bcc72e2671d3954e9da73bfe78246e1db464ea9a2694be4491dc0e70ef34e7",
+      "crc": "817705595"
+    },
+    "meshes/stop_lens.obj.sfmb": {
+      "bytes": 3262,
+      "sha256": "950d9cc4c2eed14ff1d9fd929242ebb45bf017eba1443987db180db710955c19",
+      "crc": "3460761607"
+    },
+    "meshes/turn_front_left.obj.sfmb": {
+      "bytes": 2640,
+      "sha256": "7c37a2f96c5797b0a33fb155b6d1c928ac22c3c58c82812d0e8a9723f4655da0",
+      "crc": "2036981996"
+    },
+    "meshes/turn_front_right.obj.sfmb": {
+      "bytes": 2646,
+      "sha256": "cc18f3859e1c1d752c65bba785b655c262d89f381e84d39d007eeae28a400fdb",
+      "crc": "2888497195"
+    },
+    "meshes/turn_rear_left.obj.sfmb": {
+      "bytes": 798,
+      "sha256": "d3aa91d7bcc914ca5c131b0deec8a6d55bf27af59056c483955aa21de80414e1",
+      "crc": "1613955679"
+    },
+    "meshes/turn_rear_right.obj.sfmb": {
+      "bytes": 791,
+      "sha256": "734ad87dcfa44cf7deb69de6cbb58b7f181faf25a6da7fde3a76a99152289875",
+      "crc": "2020630533"
+    },
+    "textures/atlas_1_color.jpg": {
+      "bytes": 1666359,
+      "sha256": "912fc4e93f6d4d7c8805473f9200450d75d3f5acc9fc9e6ba1c032d4d16dade4",
+      "crc": "138725969"
+    },
+    "textures/atlas_1_gloss.jpg": {
+      "bytes": 46583,
+      "sha256": "294b0fdc9cd04d4479d7186f33426db8d6d82babcf812862c45c84adb444cae8",
+      "crc": "3144750297"
+    },
+    "textures/atlas_1_normal.png": {
+      "bytes": 226351,
+      "sha256": "b2cd3e2faaf9d1e6bdf0f8248db075747ca3a9f0a14de44f01a9631403c773e0",
+      "crc": "1010696430"
+    },
+    "textures/atlas_1_panels.png": {
+      "bytes": 10825,
+      "sha256": "8ea6308170680afa632aca01612b73862b511f11d4e05b94f16057b1464c772e",
+      "crc": "3771830558"
+    },
+    "textures/atlas_2_color.jpg": {
+      "bytes": 1806005,
+      "sha256": "403950aaf044a06c115605695e277d067bb80c0f514bb4ccdfbaf69600c22ca4",
+      "crc": "563559220"
+    },
+    "textures/atlas_2_gloss.jpg": {
+      "bytes": 67603,
+      "sha256": "abb53dd76dbdba086b3f48604750c821556a939f4c9f076b85ed7cb09be05329",
+      "crc": "2021470077"
+    },
+    "textures/atlas_2_normal.png": {
+      "bytes": 226377,
+      "sha256": "dabc3f9a119a38458157a17c5973d3d7a0ea1b63a7621e4617aa518b9f03b546",
+      "crc": "497605522"
+    },
+    "textures/atlas_2_panels.png": {
+      "bytes": 18271,
+      "sha256": "f0583ad8cc44687ac4af33dddd96b93234d88cf8377a7f769f18ae72aceac0e3",
+      "crc": "642721359"
+    },
+    "textures/atlas_3_color.jpg": {
+      "bytes": 2337936,
+      "sha256": "bbf35dc53184040d166ec82f1ce31caf895a0f3c60adba245695af8ac14437f4",
+      "crc": "4014687950"
+    },
+    "textures/atlas_3_gloss.jpg": {
+      "bytes": 112185,
+      "sha256": "763cd966d6431d6aeec1a5f559e267ba16cc253b73327b125e33cc83cac7a022",
+      "crc": "4151449747"
+    },
+    "textures/atlas_3_normal.png": {
+      "bytes": 490696,
+      "sha256": "08699066174f6c42e1091d42d42cf21c2ddecb2fc0d69a0e761415ebc71ae7ca",
+      "crc": "1677380121"
+    },
+    "textures/atlas_3_panels.png": {
+      "bytes": 13045,
+      "sha256": "d4060153299f20aaa5a9421f3264ae4ee9dfed1eaf2279f1048be2bd22bf8705",
+      "crc": "505440089"
+    },
+    "textures/stem_decals.png": {
+      "bytes": 113396,
+      "sha256": "701af3a31d2673155858539fb8cef7ced7eb6ba8042d522e55bb1d99ab3310b0",
+      "crc": "3722455029"
+    }
+  }
+}

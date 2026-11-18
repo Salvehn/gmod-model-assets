@@ -35,3 +35,9 @@ source game's shaders. The texture atlas prioritizes batching and download size.
 
 Original vehicle design and game-derived assets belong to their respective
 rights holders. This repository does not claim ownership of those assets.
+
+## Segway SuperScooter GT3 / Starfall
+
+Assets: [`segway_superscooter_gt3/gt3_sf`](segway_superscooter_gt3/gt3_sf).
+This folder contains the mesh packets, texture atlases and checksum manifest
+used by the GT3 Starfall dupe. The loader pins the asset commit.

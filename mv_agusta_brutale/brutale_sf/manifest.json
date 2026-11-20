@@ -502,10 +502,10 @@
       "sha256": "76d0ac41fa097716306b946989bf476125995fa66d7b0db3ef02c10fa153a364",
       "crc": "1763555576"
     },
-    "meshes/rear_arm_m41_00.obj.sfmb": {
-      "bytes": 1026,
-      "sha256": "20407d4ac4b575ed0933fdc0340f66cf6f262b669d3827a4532906a42ee22c13",
-      "crc": "2246657326"
+    "meshes/rear_wheel_m41_00.obj.sfmb": {
+      "bytes": 1057,
+      "sha256": "3b574b2dd1c3053e603341e697b282396bc64a43217d3625799261f1e0bb0b70",
+      "crc": "3429348496"
     },
     "meshes/rear_wheel_m08_00.obj.sfmb": {
       "bytes": 19037,
@@ -522,10 +522,10 @@
       "sha256": "83b42c002a9721236f6ffe6a5a8690491a6e06a31ac0b2c947b8b2fac755a000",
       "crc": "1910403640"
     },
-    "meshes/rear_arm_m28_00.obj.sfmb": {
-      "bytes": 85408,
-      "sha256": "8f24ddefbf1d63f1e8162f53c4511869f502b3242fe658afc7eba3502990f168",
-      "crc": "2969967093"
+    "meshes/rear_wheel_m28_00.obj.sfmb": {
+      "bytes": 6240,
+      "sha256": "0f7e3687ebc9216f42092375da8a4745fee96aa6d15bad7533b3426031162aa7",
+      "crc": "714668967"
     },
     "meshes/stem_m42_00.obj.sfmb": {
       "bytes": 21134,
@@ -666,6 +666,11 @@
       "bytes": 39976,
       "sha256": "0d51b6e4cc07d62575af8fb2f8d8deb6eb6116659efcca4c1a9867644cf88b64",
       "crc": "2139730406"
+    },
+    "meshes/rear_arm_m28_00.obj.sfmb": {
+      "bytes": 79909,
+      "sha256": "b0b3c51509dd72bc76e3c21659baca29275bda068996a5d87a8b7cdd55a137c1",
+      "crc": "2382100888"
     },
     "meshes/rear_arm_m56_00.obj.sfmb": {
       "bytes": 14841,

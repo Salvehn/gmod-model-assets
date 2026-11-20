@@ -49,3 +49,8 @@ Assets: [`mv_agusta_brutale/brutale_sf`](mv_agusta_brutale/brutale_sf).
 This folder contains the compressed mesh packets, textures and checksum
 manifest for the Starfall dupe. The loader pins the asset commit.
 The input mesh credits VTX.
+
+Download [the AdvDupe2 paste](mv_agusta_brutale/mv_agusta_brutale_starfall.txt)
+to `garrysmod/data/advdupe2/`, then paste with parenting enabled.
+Requires StarfallEx, Wiremod / AdvDupe2, and SProps.
+The paste downloads its assets from the pinned mirror at runtime.

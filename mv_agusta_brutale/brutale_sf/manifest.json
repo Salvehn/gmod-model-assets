@@ -672,35 +672,45 @@
       "sha256": "cb82032241ed974a7a1a0d5fc5a2cddc86606e97920d6e3e69328c69cdd8a55d",
       "crc": "652104705"
     },
-    "meshes/rear_spring_m33_00.obj.sfmb": {
-      "bytes": 33710,
-      "sha256": "62cac7dd543512185c719a91f3105b5a81b6b597729a2bd1ad5decee1e46779c",
-      "crc": "3295516139"
+    "meshes/rear_spring_m33_00_with_linkage.obj.sfmb": {
+      "bytes": 33754,
+      "sha256": "a4da5525919ae61e095a4036e2365a39e8787d66659cb58dffb6ce655e5f8b3f",
+      "crc": "379276870"
     },
-    "meshes/rear_arm_m28_00_without_shock.obj.sfmb": {
-      "bytes": 72380,
-      "sha256": "0e69eea172b1e5eb7bf81e7d8dd6f20e2e4b76670f1b54da4348fab10099f833",
-      "crc": "786955076"
+    "meshes/rear_arm_m28_00_with_linkage.obj.sfmb": {
+      "bytes": 41222,
+      "sha256": "e79d054b443be29ccf1a564fe352e34a725b87cb7e45bea39bb55421fc6e7eda",
+      "crc": "518133197"
     },
-    "meshes/rear_shock_rod_m28_00.obj.sfmb": {
-      "bytes": 900,
-      "sha256": "59ee8a073b477cfd398b7c3ad10069c1547146e6f1a5c4c3101f427fb491de02",
-      "crc": "1401531752"
+    "meshes/rear_rocker_m28_00.obj.sfmb": {
+      "bytes": 21240,
+      "sha256": "6bb1f9aea82f65f3a3e9f56bc2eac24b92181da85a6637f79e249aefb633375d",
+      "crc": "3434037236"
     },
-    "meshes/rear_shock_m28_00.obj.sfmb": {
-      "bytes": 7659,
-      "sha256": "e68773f41ffe651d6f50fe86e4cbbaf55005d0675b1cc102ece326f8e33aaced",
-      "crc": "3537715901"
+    "meshes/rear_tie_rod_m28_00.obj.sfmb": {
+      "bytes": 11189,
+      "sha256": "99107cfd978452abc1c84aba843bc80f46d44e618800bd26a444aaf6cacb34ea",
+      "crc": "1054139048"
+    },
+    "meshes/rear_shock_rod_m28_00_with_linkage.obj.sfmb": {
+      "bytes": 876,
+      "sha256": "fff4d8037d25dacc10e93929c8fec49ff337d51c621a097b1024dc90539459b9",
+      "crc": "2634520336"
+    },
+    "meshes/rear_shock_m28_00_with_linkage.obj.sfmb": {
+      "bytes": 7490,
+      "sha256": "2e9406efbfa2404e06a149453752086249b849df1456f1196991043ff2d3d22c",
+      "crc": "87893405"
     },
     "meshes/rear_arm_m56_00_without_shock.obj.sfmb": {
       "bytes": 10749,
       "sha256": "10ce21421abbf9d13b4a8309b997c2ccb444c15b3a070fc1db1e447676604111",
       "crc": "3224973914"
     },
-    "meshes/rear_shock_m56_00.obj.sfmb": {
-      "bytes": 4515,
-      "sha256": "cec7aa0066636e2d806121f7d9e8d490cdc2412ea68dccdc0abcadfd5134dd0d",
-      "crc": "2165720877"
+    "meshes/rear_shock_m56_00_with_linkage.obj.sfmb": {
+      "bytes": 4434,
+      "sha256": "c0b77c561808ca7be32ba4d9b259c073173da1aa54bb0cc056a37996e0d429bc",
+      "crc": "1245454211"
     },
     "meshes/rear_arm_m14_00.obj.sfmb": {
       "bytes": 14486,

@@ -667,7 +667,7 @@
       "sha256": "0d51b6e4cc07d62575af8fb2f8d8deb6eb6116659efcca4c1a9867644cf88b64",
       "crc": "2139730406"
     },
-    "meshes/rear_arm_m28_00.obj.sfmb": {
+    "meshes/rear_arm_m28_00_without_sprocket.obj.sfmb": {
       "bytes": 79909,
       "sha256": "b0b3c51509dd72bc76e3c21659baca29275bda068996a5d87a8b7cdd55a137c1",
       "crc": "2382100888"

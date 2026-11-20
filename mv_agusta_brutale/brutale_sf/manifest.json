@@ -262,10 +262,10 @@
       "sha256": "ae8dc1bcc1358a27dc206d2933b1dd5890961eb1d9941782831bf0d916e86f0f",
       "crc": "3094278033"
     },
-    "meshes/body_m14_05.obj.sfmb": {
-      "bytes": 119705,
-      "sha256": "83cc8cd7ad5a5d610610249c0c11acb74f1a40d3aa90580c23df8db14c87a6b5",
-      "crc": "2285787603"
+    "meshes/body_m14_05_without_kickstand.obj.sfmb": {
+      "bytes": 107255,
+      "sha256": "fb99ff3cb0f58509bc564c7e657ece2f60100939f179947bab220d88c634ff01",
+      "crc": "1833470180"
     },
     "meshes/body_m15_00.obj.sfmb": {
       "bytes": 55107,
@@ -616,6 +616,11 @@
       "bytes": 72571,
       "sha256": "c6249d5684fa9b47e7829f5ba6329d5dde2937342b61fd566cc22d3c62f29e1b",
       "crc": "2022907830"
+    },
+    "meshes/kickstand_m14_00.obj.sfmb": {
+      "bytes": 13973,
+      "sha256": "f40d76bcb623854540d8ed1d007fd9290136fdeb5de0bfd886766ef96b811d0a",
+      "crc": "1526206758"
     },
     "meshes/body_m51_00.obj.sfmb": {
       "bytes": 5326,

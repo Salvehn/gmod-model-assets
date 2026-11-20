@@ -41,3 +41,11 @@ rights holders. This repository does not claim ownership of those assets.
 Assets: [`segway_superscooter_gt3/gt3_sf`](segway_superscooter_gt3/gt3_sf).
 This folder contains the mesh packets, texture atlases and checksum manifest
 used by the GT3 Starfall dupe. The loader pins the asset commit.
+
+
+## MV Agusta Brutale 1000 Serie Oro / Starfall
+
+Assets: [`mv_agusta_brutale/brutale_sf`](mv_agusta_brutale/brutale_sf).
+This folder contains the compressed mesh packets, textures and checksum
+manifest for the Starfall dupe. The loader pins the asset commit.
+The input mesh credits VTX.

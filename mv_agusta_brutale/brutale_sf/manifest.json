@@ -27,6 +27,11 @@
       "sha256": "d251f3a275212dcf53a07b4daddedda0aeda16581613a582feebe994862fc1c4",
       "crc": "1995696375"
     },
+    "textures/normal_livery454_n_3c649b0e6a_1024_normal.png": {
+      "bytes": 1144702,
+      "sha256": "b146ba92d2ae8d0f82cfe67275095adc9571760520fac921a0d25534301f090a",
+      "crc": "652355011"
+    },
     "textures/normal_cockpit454_n_0efc535df9_normal.png": {
       "bytes": 2685075,
       "sha256": "8e5d40d1418e3455565a2076d5a74d018582baf0eda39c040bde5ec0fedfd3e0",
@@ -77,6 +82,11 @@
       "sha256": "7ea55d6e1c4bccfaac439b85ba041e0d37b48e14cb229dc85543e922353fc9a7",
       "crc": "3862237430"
     },
+    "textures/normal_exmanifold454_001_n_e64f1ffc80_1024_normal.png": {
+      "bytes": 376389,
+      "sha256": "1278abc84a720288a424c75b6284ebd36964fc13e2e7e8121725f10b7df8522b",
+      "crc": "2320650862"
+    },
     "textures/base_chain_a_a00f4d74a5.png": {
       "bytes": 13542,
       "sha256": "ec56162f5baab458c94a13c5cce9092cc536b49034e8c8c97d6451bfce87d151",
@@ -107,6 +117,21 @@
       "sha256": "434854ab657dae0d40abbe973e2fba30de13976e3d6ac23bb14575e4133a212d",
       "crc": "2528334253"
     },
+    "textures/normal_rim454_n_21df3bf862_1024_normal.png": {
+      "bytes": 547337,
+      "sha256": "05b19ad05f4f5f65738b6c7d451297e3b7ffa6cc308a1a292cea5e2b0046ded2",
+      "crc": "1951183002"
+    },
+    "textures/base_logo_page_1_b578cced8e01bce9.png": {
+      "bytes": 223468,
+      "sha256": "b578cced8e01bce94abe02c9774c70f9e87e831fa9555366699854220a0a8501",
+      "crc": "2679948825"
+    },
+    "textures/base_logo_page_2_e032db7361228792.png": {
+      "bytes": 171893,
+      "sha256": "e032db7361228792583cd78e16fe7ddfbb8dd8fab901fa74ee41f18749473d0c",
+      "crc": "4031393663"
+    },
     "meshes/body_m00_00.obj.c5fbb1cf6a490592.sfmv": {
       "bytes": 21377,
       "sha256": "c5fbb1cf6a490592cefc397d0d53f2c3cfb65f100ebacbf9d74d5da81a75d073",
@@ -126,6 +151,16 @@
       "bytes": 305,
       "sha256": "8f22d95b2eff37c4258a2443203640bced885867219fd34ef14e18edb21a4663",
       "crc": "2198474468"
+    },
+    "meshes/body_m04_00_logo_page.obj.5e4183b818e2e96b.sfmv": {
+      "bytes": 11302,
+      "sha256": "5e4183b818e2e96ba2ae9b0590915700d07ad989a384854b7b0be9c33a060a93",
+      "crc": "164622223"
+    },
+    "meshes/body_m06_00_logo_page.obj.e2ebca5399f752a7.sfmv": {
+      "bytes": 28899,
+      "sha256": "e2ebca5399f752a7b9304b3dfc0d7da6f019f7036cf183313e7814fc711a67bf",
+      "crc": "3606486776"
     },
     "meshes/body_m07_00.obj.7e1954db646e0730.sfmv": {
       "bytes": 264389,
@@ -247,6 +282,26 @@
       "sha256": "b7c41cd08e67b73b1cb9900325029a5764de3ade6738586c38e912dad39cf6bf",
       "crc": "2434971557"
     },
+    "meshes/front_wheel_m21_00_without_overlap.obj.336caec64e9a08d1.sfmv": {
+      "bytes": 9662,
+      "sha256": "336caec64e9a08d199a7ff341d34503143ff8f9a23a24ca6d4f30e285ea34c19",
+      "crc": "2371283216"
+    },
+    "meshes/rear_wheel_m22_00.obj.ab4f3f0b43de2d75.sfmv": {
+      "bytes": 4712,
+      "sha256": "ab4f3f0b43de2d750fd3444714dff494221672cdd19dcd8e52c008ffc9b9dab1",
+      "crc": "150389746"
+    },
+    "meshes/stop_lens_m23_00.obj.2e21373389cddd7f.sfmv": {
+      "bytes": 9970,
+      "sha256": "2e21373389cddd7f8923d48569bba756ed22bba0676617d2ad475058d24e1a1a",
+      "crc": "3625690536"
+    },
+    "meshes/body_m24_00_logo_page.obj.f36ca9cbfe7a926a.sfmv": {
+      "bytes": 1011,
+      "sha256": "f36ca9cbfe7a926ae9e6990abf51ddc77451b98b4d4f3159c50eea3106937c0a",
+      "crc": "601192056"
+    },
     "meshes/body_m25_00.obj.73bde4b73c2e319d.sfmv": {
       "bytes": 135869,
       "sha256": "73bde4b73c2e319d8092395c9e8182e3aae95770f8565d9624ea2a1bc2f72662",
@@ -292,55 +347,30 @@
       "sha256": "1d1d140ef43cf8c7d7d1214a11c56458e1a96b5520e08a9e37283a276f656d26",
       "crc": "1066265992"
     },
-    "meshes/body_m49_00.obj.077ef2b99df6592e.sfmv": {
-      "bytes": 33933,
-      "sha256": "077ef2b99df6592eda9ce282f08d2d6f07a13dce444f188800d154c2ec400a28",
-      "crc": "2492089565"
-    },
-    "meshes/body_m50_00.obj.5e8f54e281922295.sfmv": {
-      "bytes": 125710,
-      "sha256": "5e8f54e28192229586f07a0d22ff187f19844be2c85426101d2ccc9c93fa1e8a",
-      "crc": "3800387893"
-    },
-    "meshes/body_m52_00.obj.2da0c35e00cff5a5.sfmv": {
-      "bytes": 36732,
-      "sha256": "2da0c35e00cff5a568ae5ff6b7aeec04adc1a03319463bc3f59b93a6f4294986",
-      "crc": "3119486014"
-    },
-    "meshes/body_m53_00.obj.bd92fb11acbce8ed.sfmv": {
-      "bytes": 73467,
-      "sha256": "bd92fb11acbce8ed53df4ff494f40f63fec1cebfbe1edeb334cc110295585016",
-      "crc": "2395354159"
-    },
-    "meshes/body_m60_00.obj.dd994f6d74b1a9a7.sfmv": {
-      "bytes": 20723,
-      "sha256": "dd994f6d74b1a9a7c12232374e7779edabe7116716b8540b7c9d57e931d067ce",
-      "crc": "559890938"
-    },
     "meshes/fork_lens_m62_00.obj.9311049801330206.sfmv": {
       "bytes": 5551,
       "sha256": "9311049801330206445997bf7c046aa8c70ec396c6048b4a5bb9e72b3fc2bbc1",
       "crc": "3343972030"
+    },
+    "meshes/front_arm_m31_00.obj.d2722bd1dc294559.sfmv": {
+      "bytes": 2209,
+      "sha256": "d2722bd1dc2945597357cfd1ad7dc9175d94b97f4b8e1f6f82b671086b0b3b53",
+      "crc": "1759050021"
+    },
+    "meshes/front_arm_m25_00.obj.98f2643b6dece767.sfmv": {
+      "bytes": 61423,
+      "sha256": "98f2643b6dece767d6dcedd80761ac4823998d7a6346e2c55588e099cc5a76d0",
+      "crc": "2960851139"
     },
     "meshes/front_arm_m08_00.obj.6d122a43089908a2.sfmv": {
       "bytes": 48592,
       "sha256": "6d122a43089908a2cf174c110de883a2c73ea003df254bd3762c5b653d545365",
       "crc": "1414936427"
     },
-    "meshes/front_arm_m14_00.obj.0bdbb04e8b0bc7da.sfmv": {
-      "bytes": 32976,
-      "sha256": "0bdbb04e8b0bc7da679ec1ce18ee178db46e09dafe32c24de15bea91cb7a3429",
-      "crc": "3168742670"
-    },
-    "meshes/front_arm_m19_00.obj.3e2fdb03d2586fc7.sfmv": {
-      "bytes": 89078,
-      "sha256": "3e2fdb03d2586fc74fae10b29a0080ec14041025a4e43003b579759f4fb20c13",
-      "crc": "3893394155"
-    },
-    "meshes/front_arm_m25_00.obj.98f2643b6dece767.sfmv": {
-      "bytes": 61423,
-      "sha256": "98f2643b6dece767d6dcedd80761ac4823998d7a6346e2c55588e099cc5a76d0",
-      "crc": "2960851139"
+    "meshes/front_arm_m32_00.obj.901c1a66a9ef1a53.sfmv": {
+      "bytes": 158726,
+      "sha256": "901c1a66a9ef1a534b39d6a9bdf9a7a5c561231c6efe1911c8deecd070d43e60",
+      "crc": "3683136079"
     },
     "meshes/front_arm_m26_00.obj.deeea73d2ef4dc43.sfmv": {
       "bytes": 4697,
@@ -352,185 +382,55 @@
       "sha256": "1f9a00a42f022d0d600bd3c5379c1e85c6ab4137c1a38bba35862b90abb8ff6f",
       "crc": "454814389"
     },
+    "meshes/front_arm_m33_00.obj.c01f2982053580b2.sfmv": {
+      "bytes": 5108,
+      "sha256": "c01f2982053580b2405ef4a0129b88782f11d68f4761d9510e857b9fa54d603f",
+      "crc": "3629461833"
+    },
     "meshes/front_arm_m28_00.obj.8fd8c9b7344eab82.sfmv": {
       "bytes": 111527,
       "sha256": "8fd8c9b7344eab826f21e6c92e95eb6d34658c0d82ec05cb8f359bdbe95ccc4b",
       "crc": "2982550304"
     },
-    "meshes/front_arm_m31_00.obj.d2722bd1dc294559.sfmv": {
-      "bytes": 2209,
-      "sha256": "d2722bd1dc2945597357cfd1ad7dc9175d94b97f4b8e1f6f82b671086b0b3b53",
-      "crc": "1759050021"
+    "meshes/front_arm_m14_00.obj.0bdbb04e8b0bc7da.sfmv": {
+      "bytes": 32976,
+      "sha256": "0bdbb04e8b0bc7da679ec1ce18ee178db46e09dafe32c24de15bea91cb7a3429",
+      "crc": "3168742670"
     },
-    "meshes/front_arm_m32_00.obj.901c1a66a9ef1a53.sfmv": {
-      "bytes": 158726,
-      "sha256": "901c1a66a9ef1a534b39d6a9bdf9a7a5c561231c6efe1911c8deecd070d43e60",
-      "crc": "3683136079"
-    },
-    "meshes/front_arm_m33_00.obj.c01f2982053580b2.sfmv": {
-      "bytes": 5108,
-      "sha256": "c01f2982053580b2405ef4a0129b88782f11d68f4761d9510e857b9fa54d603f",
-      "crc": "3629461833"
+    "meshes/front_arm_m19_00.obj.3e2fdb03d2586fc7.sfmv": {
+      "bytes": 89078,
+      "sha256": "3e2fdb03d2586fc74fae10b29a0080ec14041025a4e43003b579759f4fb20c13",
+      "crc": "3893394155"
     },
     "meshes/front_arm_m34_00.obj.c2821124f0f9122a.sfmv": {
       "bytes": 37509,
       "sha256": "c2821124f0f9122abc38c2622663d622ebea33fbd3e848270a5cf94fb713564d",
       "crc": "300903493"
     },
-    "meshes/front_wheel_m21_00_without_overlap.obj.336caec64e9a08d1.sfmv": {
-      "bytes": 9662,
-      "sha256": "336caec64e9a08d199a7ff341d34503143ff8f9a23a24ca6d4f30e285ea34c19",
-      "crc": "2371283216"
+    "meshes/stem_m35_00.obj.290cb87aeaea288b.sfmv": {
+      "bytes": 8703,
+      "sha256": "290cb87aeaea288b74e99a7c95f63cf4bc9dd12dbcdc49c0ee3e0a6702b38615",
+      "crc": "2790018158"
     },
-    "meshes/front_wheel_m58_00.obj.2aa9480c078b829c.sfmv": {
-      "bytes": 59799,
-      "sha256": "2aa9480c078b829cd7a72247cdbecd506745ef8cb5ffb9da6316d08eebe03b92",
-      "crc": "2983005506"
+    "meshes/stem_m36_00_logo_page.obj.f9dbd0049fb2eb44.sfmv": {
+      "bytes": 1311,
+      "sha256": "f9dbd0049fb2eb44288186cb95b5e6384f6fb9a57bae35b2bc5854e19e8ee3b1",
+      "crc": "2126170341"
     },
-    "meshes/front_wheel_m61_00.obj.17fc9106de92ec1b.sfmv": {
-      "bytes": 143937,
-      "sha256": "17fc9106de92ec1bb4d7240d56c6aaf56cb6fb43fff96a9dca63451c29a60508",
-      "crc": "4263168006"
+    "meshes/stem_m37_00_logo_page.obj.5203f62d64e4d229.sfmv": {
+      "bytes": 2050,
+      "sha256": "5203f62d64e4d2292feede1c832f1e3e49c8a2c1607523ffc57601e8569d3e5d",
+      "crc": "4091499019"
     },
-    "meshes/kickstand_m14_00.obj.bf5080c8dd414813.sfmv": {
-      "bytes": 22226,
-      "sha256": "bf5080c8dd414813178a9be935d3d2528f8870b6eb1e7df821cbfda266b1f8aa",
-      "crc": "3251189836"
+    "meshes/stem_m38_00_logo_page.obj.b4f9dc48c76462d1.sfmv": {
+      "bytes": 3700,
+      "sha256": "b4f9dc48c76462d12bec8ac708508bff4f6cb8eaa61a9abc4f6ab9e0dcce1558",
+      "crc": "2849343256"
     },
-    "meshes/main_lens_m62_00.obj.62dd2723354387b8.sfmv": {
-      "bytes": 3789,
-      "sha256": "62dd2723354387b8f6a9d2ac484284fab5e2973a0710a5ca9baf530e0f667560",
-      "crc": "2617086974"
-    },
-    "meshes/rear_arm_m08_00.obj.388eebf1d202fca7.sfmv": {
-      "bytes": 145865,
-      "sha256": "388eebf1d202fca7bdf6ea34d956b8601b5e4090e755ea1ace75f5634c7da43d",
-      "crc": "1896883840"
-    },
-    "meshes/rear_arm_m14_00.obj.6d2226ed609be9d9.sfmv": {
-      "bytes": 21957,
-      "sha256": "6d2226ed609be9d960a5ac7b0a86d8398c98adef140f1d10c8db3ea7fb8af7f4",
-      "crc": "3016165422"
-    },
-    "meshes/rear_arm_m27_00.obj.9b82de97175b1f8e.sfmv": {
-      "bytes": 5305,
-      "sha256": "9b82de97175b1f8ee3e3a6237fc306d53e9c6d4db55beb4060e6e0d501c69c3a",
-      "crc": "4178676641"
-    },
-    "meshes/rear_arm_m28_00_with_linkage.obj.5f3784c4c847bbd7.sfmv": {
-      "bytes": 64865,
-      "sha256": "5f3784c4c847bbd7413d81f0328fd2a96acba7bed3289a6efee275e338c34898",
-      "crc": "3185201758"
-    },
-    "meshes/rear_arm_m29_00.obj.0772a192f4dca28d.sfmv": {
-      "bytes": 14032,
-      "sha256": "0772a192f4dca28d7b101e70ac25e9e9c04a82e35e2bf32c9337a1a1865b8094",
-      "crc": "2219124078"
-    },
-    "meshes/rear_arm_m33_00_without_shock.obj.5779f11a929ac5d8.sfmv": {
-      "bytes": 9893,
-      "sha256": "5779f11a929ac5d83bd4e1a8273a4724ce9458bb87c29264558ffd5ec446f39c",
-      "crc": "2460000774"
-    },
-    "meshes/rear_arm_m34_00.obj.253f746ac76c0e9d.sfmv": {
-      "bytes": 6378,
-      "sha256": "253f746ac76c0e9d02659babdf799bd5ee06cef49274bfac7f691ecaf4d52899",
-      "crc": "3855067166"
-    },
-    "meshes/rear_arm_m49_00.obj.620addd5f94040f6.sfmv": {
-      "bytes": 35238,
-      "sha256": "620addd5f94040f6fc91c91df3d9e2c35ee058243a0712d6d10c65e739c3fb00",
-      "crc": "1587509167"
-    },
-    "meshes/rear_arm_m55_00.obj.d3518cf279729c11.sfmv": {
-      "bytes": 123150,
-      "sha256": "d3518cf279729c11041ad244b4673d1c0f0f001dc37870a49eab8a4d53317f77",
-      "crc": "1881849017"
-    },
-    "meshes/rear_arm_m56_00_without_shock.obj.2c5258a245ff2932.sfmv": {
-      "bytes": 10996,
-      "sha256": "2c5258a245ff2932788a8f2a38fd4a05fb18cc07d9690aa3ac54b8037fc5e9f4",
-      "crc": "2977674463"
-    },
-    "meshes/rear_arm_m57_00.obj.bc1e20c0c8a2d92b.sfmv": {
-      "bytes": 16056,
-      "sha256": "bc1e20c0c8a2d92b04dd5e2a9fad1eb3d2e12cf2f1a4886d5f27262e31d7b10c",
-      "crc": "750353944"
-    },
-    "meshes/rear_rocker_m28_00.obj.b0ca180fd6adba08.sfmv": {
-      "bytes": 39747,
-      "sha256": "b0ca180fd6adba089970b521cfb25e2f203e6c06d1e08a4cfc8b2e8d55524d05",
-      "crc": "1718287244"
-    },
-    "meshes/rear_shock_m28_00_with_linkage.obj.1e7db9d7cd8f43c3.sfmv": {
-      "bytes": 9872,
-      "sha256": "1e7db9d7cd8f43c35d66eca1a1dd8d3da35cbbcbf11855c509d2af13b16edc19",
-      "crc": "1689314151"
-    },
-    "meshes/rear_shock_m56_00_with_linkage.obj.6d092cb55c8eb08f.sfmv": {
-      "bytes": 4493,
-      "sha256": "6d092cb55c8eb08f89069b060eb2e1673d768a7d4c7f0f1ad58bc847f2ebb0d0",
-      "crc": "2660995411"
-    },
-    "meshes/rear_shock_rod_m28_00_with_linkage.obj.a62fc7f360cf6970.sfmv": {
-      "bytes": 1091,
-      "sha256": "a62fc7f360cf6970b1ef9a2fcb631fad65d7264f0df2a0e8e99a7d5cf7a7ab4b",
-      "crc": "2680862643"
-    },
-    "meshes/rear_spring_m33_00_with_linkage.obj.4fe02f49e97a191c.sfmv": {
-      "bytes": 55824,
-      "sha256": "4fe02f49e97a191cb5e3eb7e5b967d5c7507b0a11b5d462029a71fca90ccf688",
-      "crc": "774284839"
-    },
-    "meshes/rear_tie_rod_m28_00.obj.a5effa803ddea84c.sfmv": {
-      "bytes": 17530,
-      "sha256": "a5effa803ddea84c2013e8b58298ef3b745796053532bccbba5427683034279d",
-      "crc": "3395088438"
-    },
-    "meshes/rear_wheel_m08_00.obj.de544e4e66a5fc51.sfmv": {
-      "bytes": 31945,
-      "sha256": "de544e4e66a5fc51219aff4a4f697537dc7e6415d6f10582c6e026a244dc5f91",
-      "crc": "1995848396"
-    },
-    "meshes/rear_wheel_m14_00.obj.4ffefd3209079fe4.sfmv": {
-      "bytes": 40320,
-      "sha256": "4ffefd3209079fe4e9b662349b53ab11382418e2d5a5b6cfff0f746ed4912403",
-      "crc": "4222213184"
-    },
-    "meshes/rear_wheel_m22_00.obj.ab4f3f0b43de2d75.sfmv": {
-      "bytes": 4712,
-      "sha256": "ab4f3f0b43de2d750fd3444714dff494221672cdd19dcd8e52c008ffc9b9dab1",
-      "crc": "150389746"
-    },
-    "meshes/rear_wheel_m26_00.obj.ff47eff04c549ff0.sfmv": {
-      "bytes": 20563,
-      "sha256": "ff47eff04c549ff02d70cda793ca399dabb130d99d10874881483c294bf8605e",
-      "crc": "2548334853"
-    },
-    "meshes/rear_wheel_m27_00.obj.bb83c98ee6ecaa9f.sfmv": {
-      "bytes": 33161,
-      "sha256": "bb83c98ee6ecaa9f4a437577fc2e9ccc8d7a663c968aa7b757eab97d426ab915",
-      "crc": "3105436217"
-    },
-    "meshes/rear_wheel_m28_00.obj.fb3e87c7bc781ef6.sfmv": {
-      "bytes": 10195,
-      "sha256": "fb3e87c7bc781ef6d4572c8ec5cc3c681630953c5dbeef2e0055a393d8fb454b",
-      "crc": "1466824920"
-    },
-    "meshes/rear_wheel_m41_00.obj.f60be85635658515.sfmv": {
-      "bytes": 1204,
-      "sha256": "f60be856356585150838dc5b9927746eded75f749ca03d3af0585ffc204dff19",
-      "crc": "1811446007"
-    },
-    "meshes/rear_wheel_m59_00.obj.f4c86fbc4089ce78.sfmv": {
-      "bytes": 59352,
-      "sha256": "f4c86fbc4089ce78c308659d6375ef811c9526f7e770252d04a1d961e3e623f0",
-      "crc": "1432906367"
-    },
-    "meshes/rear_wheel_m61_00.obj.586d36f6181347ed.sfmv": {
-      "bytes": 125037,
-      "sha256": "586d36f6181347ed4002ee07c064a49d6c0334cdafeb65e118bd50054826f5b1",
-      "crc": "1245895497"
+    "meshes/stem_m39_00.obj.ca179059fc7ef39f.sfmv": {
+      "bytes": 213340,
+      "sha256": "ca179059fc7ef39ff6b86b5dbf0384c722d94a95373073b53617ca1fc0c9463b",
+      "crc": "3849380688"
     },
     "meshes/stem_m08_00.obj.86c89578709838e5.sfmv": {
       "bytes": 25897,
@@ -552,6 +452,76 @@
       "sha256": "ec095a53d7ba50c40697748ad60fb05b28ba80db737507f37e372dd1c0d7db25",
       "crc": "2662333442"
     },
+    "meshes/stem_m29_00.obj.d4bf2fea07e377a1.sfmv": {
+      "bytes": 63147,
+      "sha256": "d4bf2fea07e377a19e11b2eb1a79bba256f470a7e35e1a029806284604f64f63",
+      "crc": "2278290825"
+    },
+    "meshes/stem_m17_00.obj.f6eb7243e1c71dc0.sfmv": {
+      "bytes": 140203,
+      "sha256": "f6eb7243e1c71dc0f41785505198ad432d7321e8712926df547182cbd835a418",
+      "crc": "66522272"
+    },
+    "meshes/stem_m18_00.obj.27d02166f370cc22.sfmv": {
+      "bytes": 13812,
+      "sha256": "27d02166f370cc2296a4302f58a23b995549d92001ff6da584f5d82311387996",
+      "crc": "162882623"
+    },
+    "meshes/stem_m40_00.obj.b2cdd4d3dc116bba.sfmv": {
+      "bytes": 4190,
+      "sha256": "b2cdd4d3dc116bba1af258142f0b04f0280b8a2214b70c3f7321f4a0c9d73531",
+      "crc": "980254369"
+    },
+    "meshes/rear_wheel_m14_00.obj.4ffefd3209079fe4.sfmv": {
+      "bytes": 40320,
+      "sha256": "4ffefd3209079fe4e9b662349b53ab11382418e2d5a5b6cfff0f746ed4912403",
+      "crc": "4222213184"
+    },
+    "meshes/rear_wheel_m41_00.obj.f60be85635658515.sfmv": {
+      "bytes": 1204,
+      "sha256": "f60be856356585150838dc5b9927746eded75f749ca03d3af0585ffc204dff19",
+      "crc": "1811446007"
+    },
+    "meshes/rear_wheel_m08_00.obj.de544e4e66a5fc51.sfmv": {
+      "bytes": 31945,
+      "sha256": "de544e4e66a5fc51219aff4a4f697537dc7e6415d6f10582c6e026a244dc5f91",
+      "crc": "1995848396"
+    },
+    "meshes/rear_wheel_m26_00.obj.ff47eff04c549ff0.sfmv": {
+      "bytes": 20563,
+      "sha256": "ff47eff04c549ff02d70cda793ca399dabb130d99d10874881483c294bf8605e",
+      "crc": "2548334853"
+    },
+    "meshes/rear_wheel_m27_00.obj.bb83c98ee6ecaa9f.sfmv": {
+      "bytes": 33161,
+      "sha256": "bb83c98ee6ecaa9f4a437577fc2e9ccc8d7a663c968aa7b757eab97d426ab915",
+      "crc": "3105436217"
+    },
+    "meshes/rear_wheel_m28_00.obj.fb3e87c7bc781ef6.sfmv": {
+      "bytes": 10195,
+      "sha256": "fb3e87c7bc781ef6d4572c8ec5cc3c681630953c5dbeef2e0055a393d8fb454b",
+      "crc": "1466824920"
+    },
+    "meshes/stem_m42_00.obj.6923669cfe58eb03.sfmv": {
+      "bytes": 22184,
+      "sha256": "6923669cfe58eb03a04abbf5853acf04b69595bd49173c93dac7a1a932687bec",
+      "crc": "674530489"
+    },
+    "meshes/stem_m43_00_logo_page.obj.5886803b2b0d2d67.sfmv": {
+      "bytes": 1965,
+      "sha256": "5886803b2b0d2d677285ef94382198ff29abfb2c57a058eeb1d6734390240095",
+      "crc": "4107354320"
+    },
+    "meshes/stem_m44_00_logo_page.obj.4bb63a69ff0e87b1.sfmv": {
+      "bytes": 987,
+      "sha256": "4bb63a69ff0e87b1e7ddeec788d404f33211482d4bc6197f945321fa9665c6d0",
+      "crc": "3776113758"
+    },
+    "meshes/stem_m45_00.obj.68ea14098527bcee.sfmv": {
+      "bytes": 30850,
+      "sha256": "68ea14098527bceec55687b733d290d313a0b3d47d193093506c61a98adf95a6",
+      "crc": "729744351"
+    },
     "meshes/stem_m14_00.obj.4b246ce42af6c622.sfmv": {
       "bytes": 45582,
       "sha256": "4b246ce42af6c62252020c75cd1244767511d77e2773d512505e05a6d83cf8bc",
@@ -572,51 +542,6 @@
       "sha256": "4d70534ba3b67e4c039796f83fb1220ff696b17eb7cda6f6f9c115f364f2f80c",
       "crc": "3228332477"
     },
-    "meshes/stem_m17_00.obj.f6eb7243e1c71dc0.sfmv": {
-      "bytes": 140203,
-      "sha256": "f6eb7243e1c71dc0f41785505198ad432d7321e8712926df547182cbd835a418",
-      "crc": "66522272"
-    },
-    "meshes/stem_m18_00.obj.27d02166f370cc22.sfmv": {
-      "bytes": 13812,
-      "sha256": "27d02166f370cc2296a4302f58a23b995549d92001ff6da584f5d82311387996",
-      "crc": "162882623"
-    },
-    "meshes/stem_m29_00.obj.d4bf2fea07e377a1.sfmv": {
-      "bytes": 63147,
-      "sha256": "d4bf2fea07e377a19e11b2eb1a79bba256f470a7e35e1a029806284604f64f63",
-      "crc": "2278290825"
-    },
-    "meshes/stem_m34_00.obj.b5b350196148b5df.sfmv": {
-      "bytes": 32680,
-      "sha256": "b5b350196148b5dfee3f76463a712f1de36a8dfef8e8730b0218c2cc483df304",
-      "crc": "2277085982"
-    },
-    "meshes/stem_m35_00.obj.290cb87aeaea288b.sfmv": {
-      "bytes": 8703,
-      "sha256": "290cb87aeaea288b74e99a7c95f63cf4bc9dd12dbcdc49c0ee3e0a6702b38615",
-      "crc": "2790018158"
-    },
-    "meshes/stem_m39_00.obj.ca179059fc7ef39f.sfmv": {
-      "bytes": 213340,
-      "sha256": "ca179059fc7ef39ff6b86b5dbf0384c722d94a95373073b53617ca1fc0c9463b",
-      "crc": "3849380688"
-    },
-    "meshes/stem_m40_00.obj.b2cdd4d3dc116bba.sfmv": {
-      "bytes": 4190,
-      "sha256": "b2cdd4d3dc116bba1af258142f0b04f0280b8a2214b70c3f7321f4a0c9d73531",
-      "crc": "980254369"
-    },
-    "meshes/stem_m42_00.obj.6923669cfe58eb03.sfmv": {
-      "bytes": 22184,
-      "sha256": "6923669cfe58eb03a04abbf5853acf04b69595bd49173c93dac7a1a932687bec",
-      "crc": "674530489"
-    },
-    "meshes/stem_m45_00.obj.68ea14098527bcee.sfmv": {
-      "bytes": 30850,
-      "sha256": "68ea14098527bceec55687b733d290d313a0b3d47d193093506c61a98adf95a6",
-      "crc": "729744351"
-    },
     "meshes/stem_m46_00.obj.4c0fec7f810a79ab.sfmv": {
       "bytes": 243985,
       "sha256": "4c0fec7f810a79ab1d694994b806995f4d6c65d34f30edac912d22905d908991",
@@ -632,25 +557,20 @@
       "sha256": "a6bba4d38bac0a0908c6fccf679a360e5c3036e4dd4b86811cf1102f410f44bd",
       "crc": "3334554787"
     },
+    "meshes/stem_m34_00.obj.b5b350196148b5df.sfmv": {
+      "bytes": 32680,
+      "sha256": "b5b350196148b5dfee3f76463a712f1de36a8dfef8e8730b0218c2cc483df304",
+      "crc": "2277085982"
+    },
     "meshes/stem_m48_00.obj.e8f22984af90e5a6.sfmv": {
       "bytes": 18298,
       "sha256": "e8f22984af90e5a6040370b778fbece2a7874e346d03df20d2862245a1290943",
       "crc": "419667475"
     },
-    "meshes/stem_m63_00.obj.6a0f18b9c5d667a2.sfmv": {
-      "bytes": 25969,
-      "sha256": "6a0f18b9c5d667a20a7f4660eecf587b3665292ef4ac7f1196d96b1f082b732c",
-      "crc": "24926142"
-    },
-    "meshes/stop_lens_m23_00.obj.2e21373389cddd7f.sfmv": {
-      "bytes": 9970,
-      "sha256": "2e21373389cddd7f8923d48569bba756ed22bba0676617d2ad475058d24e1a1a",
-      "crc": "3625690536"
-    },
-    "meshes/tail_lens_m23_00.obj.30fc3370c1c996ad.sfmv": {
-      "bytes": 30612,
-      "sha256": "30fc3370c1c996ad7984575e78a412a8557654df2c697ae196a536231b7b04b7",
-      "crc": "3813434146"
+    "meshes/main_lens_m62_00.obj.62dd2723354387b8.sfmv": {
+      "bytes": 3789,
+      "sha256": "62dd2723354387b8f6a9d2ac484284fab5e2973a0710a5ca9baf530e0f667560",
+      "crc": "2617086974"
     },
     "meshes/turn_front_left_m23_00.obj.7461e7de049bd648.sfmv": {
       "bytes": 4585,
@@ -662,75 +582,160 @@
       "sha256": "ea7598bcdbbdc387c778100aa98a1991ba16b31c256569646d6db17cc7ff3939",
       "crc": "2455420800"
     },
-    "textures/base_logo_atlas_75de473ba8ad6aac.png": {
-      "bytes": 433179,
-      "sha256": "75de473ba8ad6aac9b2a8c95d53ce725fa2ac74650f11ced37c919afe10750d9",
-      "crc": "737303344"
+    "meshes/body_m49_00.obj.077ef2b99df6592e.sfmv": {
+      "bytes": 33933,
+      "sha256": "077ef2b99df6592eda9ce282f08d2d6f07a13dce444f188800d154c2ec400a28",
+      "crc": "2492089565"
     },
-    "textures/normal_livery454_n_3c649b0e6a_1024_normal.png": {
-      "bytes": 1144702,
-      "sha256": "b146ba92d2ae8d0f82cfe67275095adc9571760520fac921a0d25534301f090a",
-      "crc": "652355011"
+    "meshes/body_m50_00.obj.5e8f54e281922295.sfmv": {
+      "bytes": 125710,
+      "sha256": "5e8f54e28192229586f07a0d22ff187f19844be2c85426101d2ccc9c93fa1e8a",
+      "crc": "3800387893"
     },
-    "textures/normal_exmanifold454_001_n_e64f1ffc80_1024_normal.png": {
-      "bytes": 376389,
-      "sha256": "1278abc84a720288a424c75b6284ebd36964fc13e2e7e8121725f10b7df8522b",
-      "crc": "2320650862"
+    "meshes/kickstand_m14_00.obj.bf5080c8dd414813.sfmv": {
+      "bytes": 22226,
+      "sha256": "bf5080c8dd414813178a9be935d3d2528f8870b6eb1e7df821cbfda266b1f8aa",
+      "crc": "3251189836"
     },
-    "textures/normal_rim454_n_21df3bf862_1024_normal.png": {
-      "bytes": 547337,
-      "sha256": "05b19ad05f4f5f65738b6c7d451297e3b7ffa6cc308a1a292cea5e2b0046ded2",
-      "crc": "1951183002"
+    "meshes/body_m51_00_logo_page.obj.0ff28c5f4454673e.sfmv": {
+      "bytes": 9432,
+      "sha256": "0ff28c5f4454673ef39d10a8aa5c4b6def8c6cb67195b75407c73562160f2a1c",
+      "crc": "2186805214"
     },
-    "meshes/body_m04_00_logo_atlas.obj.bc4a3cf7380c089d.sfmv": {
-      "bytes": 11241,
-      "sha256": "bc4a3cf7380c089d9122c14f1f207a2d6272ec6110530a5a3dbe8f142d9805a0",
-      "crc": "194916101"
+    "meshes/body_m52_00.obj.2da0c35e00cff5a5.sfmv": {
+      "bytes": 36732,
+      "sha256": "2da0c35e00cff5a568ae5ff6b7aeec04adc1a03319463bc3f59b93a6f4294986",
+      "crc": "3119486014"
     },
-    "meshes/body_m06_00_logo_atlas.obj.49a47f69f13b61d9.sfmv": {
-      "bytes": 28802,
-      "sha256": "49a47f69f13b61d9bb4207aaed3a2d06ff2316a07834651e4a62e22af79dc3e5",
-      "crc": "154189987"
+    "meshes/body_m53_00.obj.bd92fb11acbce8ed.sfmv": {
+      "bytes": 73467,
+      "sha256": "bd92fb11acbce8ed53df4ff494f40f63fec1cebfbe1edeb334cc110295585016",
+      "crc": "2395354159"
     },
-    "meshes/body_m24_00_logo_atlas.obj.78b881b1371dc67a.sfmv": {
-      "bytes": 1011,
-      "sha256": "78b881b1371dc67ab42e01198183fae5667e33c1f549830eb56da42e2be42e7c",
-      "crc": "4248634161"
+    "meshes/rear_arm_m34_00.obj.253f746ac76c0e9d.sfmv": {
+      "bytes": 6378,
+      "sha256": "253f746ac76c0e9d02659babdf799bd5ee06cef49274bfac7f691ecaf4d52899",
+      "crc": "3855067166"
     },
-    "meshes/body_m51_00_logo_atlas.obj.32714b5804d60f06.sfmv": {
-      "bytes": 9327,
-      "sha256": "32714b5804d60f06e2f917527bdb66fbc065d5b2c754df43d8f672dabaced294",
-      "crc": "2558142761"
-    },
-    "meshes/rear_arm_m54_00_logo_atlas.obj.383104d11c8edd96.sfmv": {
+    "meshes/rear_arm_m54_00_logo_page.obj.c59719db31ff68a6.sfmv": {
       "bytes": 737,
-      "sha256": "383104d11c8edd969d627237e94cdc7269f925cafed86fff54ea7c214bdec017",
-      "crc": "3035503974"
+      "sha256": "c59719db31ff68a680695cfb2a32fdc8ba6d3b416183ae5521741f71bccfcf75",
+      "crc": "3211667225"
     },
-    "meshes/stem_m36_00_logo_atlas.obj.8216fbc4358c03e1.sfmv": {
-      "bytes": 1308,
-      "sha256": "8216fbc4358c03e191f7468c1179f8825ffb572346f2234ab3180cc3bfed6cb7",
-      "crc": "651945305"
+    "meshes/rear_arm_m55_00.obj.d3518cf279729c11.sfmv": {
+      "bytes": 123150,
+      "sha256": "d3518cf279729c11041ad244b4673d1c0f0f001dc37870a49eab8a4d53317f77",
+      "crc": "1881849017"
     },
-    "meshes/stem_m37_00_logo_atlas.obj.5fd2be31bf581812.sfmv": {
-      "bytes": 2035,
-      "sha256": "5fd2be31bf581812b0882c679bc3e7479aefc677796e259b02d98981455cc371",
-      "crc": "120709202"
+    "meshes/rear_arm_m08_00.obj.388eebf1d202fca7.sfmv": {
+      "bytes": 145865,
+      "sha256": "388eebf1d202fca7bdf6ea34d956b8601b5e4090e755ea1ace75f5634c7da43d",
+      "crc": "1896883840"
     },
-    "meshes/stem_m38_00_logo_atlas.obj.084493cf4a20eb30.sfmv": {
-      "bytes": 3701,
-      "sha256": "084493cf4a20eb30987a6ea74d8a7535c17fe01a75e8f6d9363b286bacf56a22",
-      "crc": "1050557005"
+    "meshes/rear_arm_m49_00.obj.620addd5f94040f6.sfmv": {
+      "bytes": 35238,
+      "sha256": "620addd5f94040f6fc91c91df3d9e2c35ee058243a0712d6d10c65e739c3fb00",
+      "crc": "1587509167"
     },
-    "meshes/stem_m43_00_logo_atlas.obj.b61b47d522fbe404.sfmv": {
-      "bytes": 1920,
-      "sha256": "b61b47d522fbe404b0775d13242460d61cb765b807fce894890fa02e663534b3",
-      "crc": "1590601516"
+    "meshes/rear_arm_m27_00.obj.9b82de97175b1f8e.sfmv": {
+      "bytes": 5305,
+      "sha256": "9b82de97175b1f8ee3e3a6237fc306d53e9c6d4db55beb4060e6e0d501c69c3a",
+      "crc": "4178676641"
     },
-    "meshes/stem_m44_00_logo_atlas.obj.687b9543c5722b33.sfmv": {
-      "bytes": 990,
-      "sha256": "687b9543c5722b33c6d73fb5f1103d2c30cb52440038240d93981ba76d9af081",
-      "crc": "1577408002"
+    "meshes/rear_arm_m33_00_without_shock.obj.5779f11a929ac5d8.sfmv": {
+      "bytes": 9893,
+      "sha256": "5779f11a929ac5d83bd4e1a8273a4724ce9458bb87c29264558ffd5ec446f39c",
+      "crc": "2460000774"
+    },
+    "meshes/rear_spring_m33_00_with_linkage.obj.4fe02f49e97a191c.sfmv": {
+      "bytes": 55824,
+      "sha256": "4fe02f49e97a191cb5e3eb7e5b967d5c7507b0a11b5d462029a71fca90ccf688",
+      "crc": "774284839"
+    },
+    "meshes/rear_arm_m28_00_with_linkage.obj.5f3784c4c847bbd7.sfmv": {
+      "bytes": 64865,
+      "sha256": "5f3784c4c847bbd7413d81f0328fd2a96acba7bed3289a6efee275e338c34898",
+      "crc": "3185201758"
+    },
+    "meshes/rear_rocker_m28_00.obj.b0ca180fd6adba08.sfmv": {
+      "bytes": 39747,
+      "sha256": "b0ca180fd6adba089970b521cfb25e2f203e6c06d1e08a4cfc8b2e8d55524d05",
+      "crc": "1718287244"
+    },
+    "meshes/rear_tie_rod_m28_00.obj.a5effa803ddea84c.sfmv": {
+      "bytes": 17530,
+      "sha256": "a5effa803ddea84c2013e8b58298ef3b745796053532bccbba5427683034279d",
+      "crc": "3395088438"
+    },
+    "meshes/rear_shock_rod_m28_00_with_linkage.obj.a62fc7f360cf6970.sfmv": {
+      "bytes": 1091,
+      "sha256": "a62fc7f360cf6970b1ef9a2fcb631fad65d7264f0df2a0e8e99a7d5cf7a7ab4b",
+      "crc": "2680862643"
+    },
+    "meshes/rear_shock_m28_00_with_linkage.obj.1e7db9d7cd8f43c3.sfmv": {
+      "bytes": 9872,
+      "sha256": "1e7db9d7cd8f43c35d66eca1a1dd8d3da35cbbcbf11855c509d2af13b16edc19",
+      "crc": "1689314151"
+    },
+    "meshes/rear_arm_m56_00_without_shock.obj.2c5258a245ff2932.sfmv": {
+      "bytes": 10996,
+      "sha256": "2c5258a245ff2932788a8f2a38fd4a05fb18cc07d9690aa3ac54b8037fc5e9f4",
+      "crc": "2977674463"
+    },
+    "meshes/rear_shock_m56_00_with_linkage.obj.6d092cb55c8eb08f.sfmv": {
+      "bytes": 4493,
+      "sha256": "6d092cb55c8eb08f89069b060eb2e1673d768a7d4c7f0f1ad58bc847f2ebb0d0",
+      "crc": "2660995411"
+    },
+    "meshes/rear_arm_m14_00.obj.6d2226ed609be9d9.sfmv": {
+      "bytes": 21957,
+      "sha256": "6d2226ed609be9d960a5ac7b0a86d8398c98adef140f1d10c8db3ea7fb8af7f4",
+      "crc": "3016165422"
+    },
+    "meshes/rear_arm_m29_00.obj.0772a192f4dca28d.sfmv": {
+      "bytes": 14032,
+      "sha256": "0772a192f4dca28d7b101e70ac25e9e9c04a82e35e2bf32c9337a1a1865b8094",
+      "crc": "2219124078"
+    },
+    "meshes/rear_arm_m57_00.obj.bc1e20c0c8a2d92b.sfmv": {
+      "bytes": 16056,
+      "sha256": "bc1e20c0c8a2d92b04dd5e2a9fad1eb3d2e12cf2f1a4886d5f27262e31d7b10c",
+      "crc": "750353944"
+    },
+    "meshes/tail_lens_m23_00.obj.30fc3370c1c996ad.sfmv": {
+      "bytes": 30612,
+      "sha256": "30fc3370c1c996ad7984575e78a412a8557654df2c697ae196a536231b7b04b7",
+      "crc": "3813434146"
+    },
+    "meshes/front_wheel_m58_00.obj.2aa9480c078b829c.sfmv": {
+      "bytes": 59799,
+      "sha256": "2aa9480c078b829cd7a72247cdbecd506745ef8cb5ffb9da6316d08eebe03b92",
+      "crc": "2983005506"
+    },
+    "meshes/rear_wheel_m59_00.obj.f4c86fbc4089ce78.sfmv": {
+      "bytes": 59352,
+      "sha256": "f4c86fbc4089ce78c308659d6375ef811c9526f7e770252d04a1d961e3e623f0",
+      "crc": "1432906367"
+    },
+    "meshes/stem_m63_00.obj.6a0f18b9c5d667a2.sfmv": {
+      "bytes": 25969,
+      "sha256": "6a0f18b9c5d667a20a7f4660eecf587b3665292ef4ac7f1196d96b1f082b732c",
+      "crc": "24926142"
+    },
+    "meshes/body_m60_00.obj.dd994f6d74b1a9a7.sfmv": {
+      "bytes": 20723,
+      "sha256": "dd994f6d74b1a9a7c12232374e7779edabe7116716b8540b7c9d57e931d067ce",
+      "crc": "559890938"
+    },
+    "meshes/front_wheel_m61_00.obj.17fc9106de92ec1b.sfmv": {
+      "bytes": 143937,
+      "sha256": "17fc9106de92ec1bb4d7240d56c6aaf56cb6fb43fff96a9dca63451c29a60508",
+      "crc": "4263168006"
+    },
+    "meshes/rear_wheel_m61_00.obj.586d36f6181347ed.sfmv": {
+      "bytes": 125037,
+      "sha256": "586d36f6181347ed4002ee07c064a49d6c0334cdafeb65e118bd50054826f5b1",
+      "crc": "1245895497"
     }
   }
 }
